@@ -1,0 +1,501 @@
+ticket_id,customer_id,created_at,resolved_at,channel,language,product,issue_type,priority,agent_id,wait_time_sec,handle_time_sec,first_call_resolution,csat_score,customer_sentiment,status,knowledge_article_used,llm_confidence,escalated,region
+TKT000001,CUST28289,2026-04-27 09:41:00,2026-04-27 09:47:18,Voice,Hindi,Broadband,Password Reset,Low,AG103,30,348,1,3.1,Positive,Escalated,0,0.84,1,North
+TKT000002,CUST54597,2026-03-23 18:37:00,2026-03-23 18:48:40,Chat,Tamil,Internet,Network Issue,Critical,AG104,11,689,0,3.4,Neutral,Pending,1,0.92,1,South
+TKT000003,CUST91070,2026-06-27 03:36:00,2026-06-27 03:52:20,Email,Hindi,Mobile,Network Issue,Low,AG122,85,895,1,4.6,Positive,Pending,0,0.94,0,West
+TKT000004,CUST37460,2026-02-20 14:29:00,2026-02-20 14:52:46,Voice,Hindi,Mobile,Plan Upgrade,Medium,AG115,378,1048,0,2.3,Neutral,Pending,0,0.88,0,North
+TKT000005,CUST37653,2026-05-30 14:30:00,2026-05-30 14:38:33,Email,English,Broadband,Complaint,Critical,AG105,328,185,1,3.2,Neutral,Escalated,0,0.9,1,West
+TKT000006,CUST28131,2026-06-13 10:38:00,2026-06-13 10:59:52,Voice,English,Internet,Billing Query,Medium,AG126,375,937,0,4.5,Negative,In Progress,0,0.78,1,East
+TKT000007,CUST54587,2026-06-26 18:42:00,2026-06-26 18:46:25,WhatsApp,English,Broadband,Password Reset,High,AG117,122,143,1,4.4,Positive,Resolved,1,0.94,0,North
+TKT000008,CUST74042,2026-03-10 01:39:00,,Email,Tamil,Mobile,Password Reset,Medium,AG129,557,450,0,3.1,Negative,Resolved,0,0.9,0,North
+TKT000009,CUST89507,2026-01-24 08:57:00,2026-01-24 09:24:40,Chat,Hindi,Mobile,SIM Activation,Critical,AG122,567,1093,0,1.9,Negative,Pending,1,0.96,1,South
+TKT000010,CUST82603,2026-02-15 03:06:00,2026-02-15 03:16:50,Chat,English,Internet,Password Reset,Medium,AG103,70,580,1,2.6,Positive,Pending,0,0.82,1,West
+TKT000011,CUST71993,2026-02-09 00:00:00,2026-02-09 00:16:19,Chat,English,Internet,Complaint,High,AG114,589,390,1,3.1,Neutral,In Progress,0,0.88,0,South
+TKT000012,CUST80292,2026-03-15 07:04:00,2026-03-15 07:19:30,WhatsApp,English,DTH,Device Setup,Medium,AG128,116,814,0,1.7,Positive,In Progress,0,0.67,0,South
+TKT000013,CUST38016,2026-06-18 15:21:00,2026-06-18 15:33:59,Voice,English,Broadband,Password Reset,Critical,AG109,175,604,1,3.7,Neutral,Pending,1,0.89,1,North
+TKT000014,CUST81066,2026-02-04 13:40:00,,Email,English,Internet,Device Setup,Medium,AG102,227,727,0,3.0,Negative,Resolved,0,0.67,0,North
+TKT000015,CUST15209,2026-03-15 12:07:00,2026-03-15 12:22:53,WhatsApp,Hindi,Billing,Refund,High,AG107,588,365,0,3.0,Negative,Pending,0,0.74,0,East
+TKT000016,CUST83792,2026-03-25 05:38:00,2026-03-25 05:52:06,Voice,Hindi,Mobile,SIM Activation,Medium,AG130,79,767,0,2.6,Neutral,Resolved,0,0.78,0,West
+TKT000017,CUST82692,2026-06-01 18:41:00,2026-06-01 19:02:25,Voice,English,DTH,Network Issue,Low,AG124,546,739,0,3.3,Negative,Escalated,1,0.75,0,East
+TKT000018,CUST16658,2026-02-07 01:31:00,,WhatsApp,Tamil,Internet,Password Reset,High,AG125,522,660,1,3.1,Positive,Pending,0,0.9,1,South
+TKT000019,CUST86350,2026-01-21 08:47:00,2026-01-21 08:54:11,WhatsApp,English,Internet,SIM Activation,High,AG129,157,274,0,3.9,Positive,Pending,0,0.88,0,East
+TKT000020,CUST33206,2026-05-23 00:22:00,2026-05-23 00:40:35,Voice,English,DTH,Complaint,Medium,AG109,163,952,0,4.0,Positive,Resolved,1,0.95,1,North
+TKT000021,CUST39831,2026-02-06 07:56:00,2026-02-06 08:19:45,Chat,Tamil,DTH,SIM Activation,Low,AG125,363,1062,1,4.6,Neutral,Pending,1,0.88,1,South
+TKT000022,CUST88193,2026-01-21 23:56:00,2026-01-22 00:10:01,Email,Tamil,Billing,Network Issue,Critical,AG129,187,654,1,2.6,Negative,Escalated,1,0.67,1,South
+TKT000023,CUST97062,2026-04-05 15:33:00,2026-04-05 15:48:00,Email,Hindi,Internet,SIM Activation,High,AG122,377,523,1,2.7,Neutral,Pending,1,0.89,0,North
+TKT000024,CUST10053,2026-03-18 12:57:00,2026-03-18 13:14:59,Chat,Tamil,Billing,Refund,Critical,AG115,183,896,1,3.5,Neutral,Escalated,1,0.92,0,South
+TKT000025,CUST40784,2026-02-21 15:52:00,2026-02-21 16:17:23,Chat,English,Mobile,Password Reset,Low,AG108,348,1175,0,3.9,Neutral,Resolved,1,0.79,0,West
+TKT000026,CUST10726,2026-03-31 23:58:00,2026-04-01 00:17:52,Voice,Tamil,Mobile,Billing Query,Critical,AG102,254,938,0,3.3,Negative,Escalated,0,0.81,1,East
+TKT000027,CUST81810,2026-06-22 22:47:00,2026-06-22 23:12:47,Chat,Hindi,Broadband,Device Setup,High,AG125,521,1026,1,4.6,Positive,Pending,1,0.86,1,West
+TKT000028,CUST80798,2026-01-15 02:31:00,,Chat,English,Broadband,Billing Query,Medium,AG103,245,705,1,3.3,Neutral,In Progress,1,0.83,1,South
+TKT000029,CUST85456,2026-02-07 15:40:00,2026-02-07 16:03:03,Voice,Tamil,DTH,Complaint,Critical,AG118,403,980,0,4.0,Negative,Escalated,1,0.72,1,West
+TKT000030,CUST71261,2026-01-06 06:48:00,2026-01-06 07:09:05,Voice,Tamil,Billing,Password Reset,Low,AG121,349,916,1,4.3,Neutral,Escalated,1,0.71,1,West
+TKT000031,CUST59692,2026-03-01 14:13:00,2026-03-01 14:30:03,WhatsApp,Tamil,Internet,Device Setup,Low,AG124,470,553,1,3.3,Negative,Resolved,1,0.73,0,South
+TKT000032,CUST91439,2026-05-18 07:17:00,2026-05-18 07:24:21,Chat,Tamil,Internet,Plan Upgrade,Critical,AG123,258,183,0,3.9,Neutral,Pending,0,0.86,0,North
+TKT000033,CUST85470,2026-06-25 14:55:00,2026-06-25 15:09:32,WhatsApp,Tamil,Mobile,Network Issue,Medium,AG104,115,757,0,4.3,Negative,Pending,0,0.92,0,East
+TKT000034,CUST54725,2026-04-07 23:35:00,,WhatsApp,Tamil,Internet,Complaint,High,AG121,384,997,0,2.8,Neutral,Escalated,1,0.71,1,West
+TKT000035,CUST21359,2026-03-26 15:03:00,2026-03-26 15:24:31,WhatsApp,English,Broadband,Complaint,High,AG101,279,1012,1,4.6,Neutral,Pending,0,0.82,1,East
+TKT000036,CUST35042,2026-03-03 22:57:00,,WhatsApp,Tamil,Billing,Plan Upgrade,Critical,AG121,287,692,0,2.8,Negative,In Progress,1,0.92,0,East
+TKT000037,CUST58368,2026-02-10 08:10:00,2026-02-10 08:30:02,Email,Tamil,Billing,Refund,High,AG123,254,948,1,4.2,Neutral,Pending,1,0.74,0,North
+TKT000038,CUST73464,2026-02-27 10:39:00,2026-02-27 10:54:17,Email,English,Mobile,SIM Activation,Medium,AG112,553,364,0,1.7,Positive,Pending,0,0.89,0,East
+TKT000039,CUST26551,2026-01-09 06:51:00,2026-01-09 07:04:22,WhatsApp,English,Internet,SIM Activation,Critical,AG116,571,231,1,4.2,Neutral,Pending,0,0.98,1,West
+TKT000040,CUST92502,2026-01-21 18:27:00,2026-01-21 18:38:08,Chat,English,Billing,SIM Activation,Low,AG108,415,253,1,2.7,Positive,In Progress,0,0.91,1,West
+TKT000041,CUST91399,2026-06-15 09:18:00,,Voice,English,Mobile,SIM Activation,Low,AG106,309,1026,1,3.3,Positive,Escalated,0,0.7,1,West
+TKT000042,CUST47056,2026-05-06 11:54:00,2026-05-06 12:17:05,WhatsApp,English,Mobile,SIM Activation,Medium,AG114,303,1082,0,1.8,Positive,Escalated,0,0.96,0,South
+TKT000043,CUST71433,2026-01-11 20:33:00,2026-01-11 20:45:58,WhatsApp,Tamil,Billing,Device Setup,Critical,AG103,319,459,1,3.6,Negative,Resolved,1,0.9,1,South
+TKT000044,CUST98117,2026-01-17 15:00:00,2026-01-17 15:19:42,Voice,English,Broadband,Device Setup,High,AG106,594,588,0,4.5,Negative,In Progress,1,0.98,1,East
+TKT000045,CUST53228,2026-03-16 08:06:00,2026-03-16 08:24:55,WhatsApp,Tamil,Broadband,Password Reset,Critical,AG103,333,802,0,4.0,Neutral,Pending,1,0.69,1,South
+TKT000046,CUST57419,2026-04-30 17:21:00,2026-04-30 17:45:54,WhatsApp,Hindi,Broadband,Password Reset,Medium,AG109,428,1066,0,1.7,Negative,Escalated,1,0.8,1,South
+TKT000047,CUST82384,2026-01-06 06:07:00,2026-01-06 06:19:57,Chat,English,Broadband,Network Issue,Medium,AG116,167,610,1,3.9,Negative,Pending,1,0.79,1,West
+TKT000048,CUST88561,2026-02-14 08:52:00,2026-02-14 09:19:04,Chat,English,DTH,Complaint,High,AG130,569,1055,0,2.3,Negative,Pending,0,0.75,1,West
+TKT000049,CUST82340,2026-06-07 12:22:00,2026-06-07 12:36:46,WhatsApp,Tamil,DTH,Plan Upgrade,Medium,AG119,462,424,1,3.4,Neutral,Escalated,1,0.66,1,West
+TKT000050,CUST87356,2026-03-12 06:48:00,2026-03-12 07:03:43,Voice,Tamil,Internet,Device Setup,Low,AG124,512,431,0,1.4,Positive,In Progress,0,0.68,1,East
+TKT000051,CUST79942,2026-04-24 11:03:00,2026-04-24 11:20:01,Email,Hindi,Broadband,Password Reset,Low,AG108,87,934,1,4.6,Negative,Pending,0,0.9,1,South
+TKT000052,CUST13794,2026-05-19 10:06:00,,Voice,Tamil,DTH,Refund,Critical,AG105,459,325,0,3.4,Positive,In Progress,0,0.71,0,West
+TKT000053,CUST93611,2026-04-23 19:33:00,2026-04-23 19:51:47,Email,Hindi,Internet,Device Setup,High,AG122,514,613,0,1.8,Negative,Escalated,0,0.8,1,East
+TKT000054,CUST36111,2026-04-27 07:33:00,2026-04-27 07:53:49,WhatsApp,English,Mobile,Complaint,High,AG119,261,988,1,4.6,Neutral,Pending,0,0.98,1,East
+TKT000055,CUST40162,2026-01-02 11:22:00,2026-01-02 11:34:13,Email,English,Mobile,SIM Activation,Medium,AG121,513,220,1,4.4,Positive,Resolved,1,0.92,0,East
+TKT000056,CUST64460,2026-05-14 07:43:00,2026-05-14 07:51:06,Chat,Hindi,DTH,SIM Activation,Medium,AG109,97,389,1,3.3,Neutral,Pending,1,0.92,1,South
+TKT000057,CUST61717,2026-01-26 14:58:00,,Voice,Tamil,DTH,SIM Activation,Critical,AG127,411,582,1,2.7,Negative,Pending,0,0.88,1,South
+TKT000058,CUST70852,2026-04-23 18:50:00,2026-04-23 19:07:02,Email,Hindi,Broadband,Network Issue,Medium,AG102,231,791,0,3.2,Positive,Pending,1,0.69,0,North
+TKT000059,CUST30253,2026-03-12 18:01:00,2026-03-12 18:24:53,Voice,Tamil,Billing,Complaint,High,AG102,384,1049,1,4.0,Negative,Pending,0,0.8,0,East
+TKT000060,CUST46160,2026-01-19 02:05:00,2026-01-19 02:28:54,Voice,Tamil,Internet,Plan Upgrade,Low,AG102,562,872,1,2.7,Neutral,Escalated,0,0.92,0,South
+TKT000061,CUST29340,2026-06-01 01:31:00,2026-06-01 01:43:50,Voice,Tamil,Mobile,Billing Query,High,AG126,226,544,0,2.1,Positive,Resolved,0,0.69,1,North
+TKT000062,CUST26614,2026-04-18 04:44:00,2026-04-18 04:57:24,Voice,Hindi,Internet,Device Setup,Critical,AG125,21,783,0,1.9,Neutral,Resolved,1,0.82,0,East
+TKT000063,CUST65872,2026-03-25 09:13:00,2026-03-25 09:17:10,WhatsApp,Hindi,Broadband,Network Issue,Low,AG111,67,183,1,4.6,Negative,Escalated,0,0.69,1,West
+TKT000064,CUST24996,2026-04-19 18:02:00,2026-04-19 18:21:52,Chat,Tamil,Broadband,Plan Upgrade,Critical,AG111,469,723,1,2.7,Neutral,In Progress,1,0.9,1,West
+TKT000065,CUST72163,2026-02-26 21:26:00,,Voice,English,Broadband,Network Issue,High,AG126,388,642,0,3.4,Positive,Resolved,1,0.88,1,East
+TKT000066,CUST56090,2026-06-09 00:50:00,2026-06-09 01:07:23,Chat,English,Broadband,Plan Upgrade,Low,AG112,57,986,1,4.0,Negative,Pending,0,0.91,0,West
+TKT000067,CUST50499,2026-06-03 20:32:00,2026-06-03 20:39:31,Email,English,Mobile,Billing Query,Critical,AG103,278,173,0,1.6,Positive,Resolved,0,0.9,0,West
+TKT000068,CUST52517,2026-03-18 10:16:00,2026-03-18 10:39:23,Voice,English,Mobile,Billing Query,Low,AG122,354,1049,0,2.3,Positive,Pending,1,0.88,1,West
+TKT000069,CUST24534,2026-03-17 09:35:00,2026-03-17 09:50:04,WhatsApp,Hindi,DTH,Password Reset,Medium,AG113,225,679,0,2.2,Negative,Resolved,0,0.72,0,North
+TKT000070,CUST75193,2026-05-20 02:40:00,2026-05-20 02:55:44,Chat,English,Broadband,Plan Upgrade,High,AG103,301,643,1,2.8,Neutral,Resolved,1,0.66,0,East
+TKT000071,CUST64747,2026-04-15 19:31:00,2026-04-15 19:57:31,WhatsApp,English,DTH,Billing Query,Critical,AG127,592,999,1,4.3,Negative,Pending,0,0.8,0,North
+TKT000072,CUST50668,2026-03-21 07:29:00,2026-03-21 07:53:41,Chat,Tamil,Mobile,Network Issue,Low,AG117,541,940,0,2.4,Negative,Escalated,1,0.77,0,North
+TKT000073,CUST30036,2026-01-19 17:09:00,2026-01-19 17:20:26,Voice,English,Broadband,Device Setup,Critical,AG122,267,419,0,1.6,Negative,Pending,1,0.7,0,West
+TKT000074,CUST19724,2026-03-22 12:02:00,2026-03-22 12:19:06,WhatsApp,English,Internet,Refund,High,AG103,286,740,0,2.2,Negative,Resolved,1,0.81,0,West
+TKT000075,CUST18109,2026-06-15 11:41:00,2026-06-15 11:54:59,Email,Hindi,Internet,Billing Query,Low,AG108,334,505,1,3.8,Negative,In Progress,1,0.83,0,East
+TKT000076,CUST98984,2026-03-09 21:00:00,2026-03-09 21:18:20,Email,English,DTH,Network Issue,Critical,AG110,401,699,1,4.4,Neutral,Escalated,1,0.68,0,East
+TKT000077,CUST59372,2026-02-26 11:25:00,2026-02-26 11:42:39,Email,English,Billing,Network Issue,Critical,AG117,137,922,0,2.1,Neutral,Resolved,1,0.76,0,East
+TKT000078,CUST30308,2026-06-22 12:25:00,,Voice,Hindi,Billing,Password Reset,High,AG129,201,1115,0,4.5,Negative,Escalated,1,0.7,0,North
+TKT000079,CUST41133,2026-05-12 06:53:00,2026-05-12 07:10:45,Email,Hindi,Broadband,Plan Upgrade,Medium,AG110,49,1016,1,3.4,Neutral,Escalated,1,0.88,1,West
+TKT000080,CUST36174,2026-05-21 01:43:00,2026-05-21 02:01:13,Chat,Tamil,Internet,Device Setup,High,AG118,396,697,1,4.9,Positive,Resolved,1,0.68,0,East
+TKT000081,CUST39102,2026-03-23 19:06:00,2026-03-23 19:28:06,Email,English,Broadband,Password Reset,Critical,AG117,155,1171,1,2.7,Neutral,Escalated,1,0.99,1,North
+TKT000082,CUST28035,2026-01-06 03:09:00,,WhatsApp,Hindi,Mobile,Device Setup,Critical,AG120,106,772,1,4.5,Positive,Resolved,0,0.74,0,West
+TKT000083,CUST41252,2026-01-21 05:46:00,2026-01-21 06:01:58,WhatsApp,English,Internet,Device Setup,Low,AG121,248,710,1,2.8,Negative,Escalated,0,0.75,0,East
+TKT000084,CUST57265,2026-02-13 19:02:00,,Voice,Tamil,Broadband,Password Reset,Critical,AG112,196,973,0,2.8,Neutral,Resolved,1,0.92,1,North
+TKT000085,CUST56176,2026-05-14 10:16:00,2026-05-14 10:31:32,Chat,Hindi,Broadband,Device Setup,Medium,AG126,600,332,1,2.8,Positive,Resolved,1,0.66,0,South
+TKT000086,CUST77552,2026-05-25 00:24:00,2026-05-25 00:33:35,WhatsApp,Tamil,Internet,Plan Upgrade,High,AG112,47,528,1,4.8,Positive,Pending,1,0.69,1,West
+TKT000087,CUST34486,2026-06-11 22:13:00,2026-06-11 22:36:14,WhatsApp,Tamil,Billing,SIM Activation,Low,AG124,455,939,1,3.3,Neutral,Resolved,1,0.85,0,East
+TKT000088,CUST50173,2026-02-28 11:23:00,2026-02-28 11:29:56,WhatsApp,English,Broadband,Refund,Critical,AG102,86,330,1,4.2,Negative,Pending,1,0.74,0,South
+TKT000089,CUST28714,2026-05-03 04:26:00,2026-05-03 04:48:08,WhatsApp,English,Mobile,Network Issue,Medium,AG125,377,951,0,4.3,Negative,Pending,1,0.78,0,North
+TKT000090,CUST20077,2026-05-04 14:52:00,2026-05-04 15:15:45,Email,Tamil,DTH,SIM Activation,Medium,AG104,384,1041,1,3.6,Positive,Escalated,1,0.83,0,East
+TKT000091,CUST47431,2026-05-22 01:52:00,2026-05-22 02:10:34,WhatsApp,English,Internet,Billing Query,Low,AG115,461,653,0,4.5,Positive,In Progress,0,0.93,1,East
+TKT000092,CUST30644,2026-05-10 04:01:00,2026-05-10 04:14:40,Chat,Tamil,Billing,Plan Upgrade,Low,AG107,568,252,1,4.7,Positive,Escalated,1,0.66,1,West
+TKT000093,CUST72739,2026-05-27 07:15:00,2026-05-27 07:22:58,WhatsApp,Hindi,Internet,Billing Query,High,AG121,93,385,0,2.1,Positive,In Progress,1,0.88,1,North
+TKT000094,CUST17263,2026-06-09 19:51:00,2026-06-09 20:01:29,Chat,Tamil,Mobile,Billing Query,High,AG130,137,492,1,3.8,Negative,Escalated,1,0.97,1,South
+TKT000095,CUST49691,2026-02-15 14:54:00,2026-02-15 15:12:11,Voice,Hindi,Mobile,Billing Query,Medium,AG122,569,522,1,2.8,Negative,Pending,0,0.93,0,South
+TKT000096,CUST13969,2026-01-09 06:37:00,2026-01-09 06:51:42,Email,Hindi,DTH,Device Setup,Medium,AG126,220,662,1,4.0,Negative,In Progress,1,0.8,0,North
+TKT000097,CUST89516,2026-03-22 00:39:00,2026-03-22 01:03:31,Email,Hindi,DTH,Complaint,Medium,AG125,500,971,1,3.0,Neutral,Resolved,1,0.73,0,East
+TKT000098,CUST60351,2026-03-23 20:18:00,2026-03-23 20:30:56,WhatsApp,English,Mobile,Refund,High,AG107,149,627,0,1.2,Positive,In Progress,1,0.82,1,West
+TKT000099,CUST38199,2026-01-05 05:15:00,2026-01-05 05:26:51,Voice,English,DTH,Device Setup,Critical,AG110,407,304,1,4.9,Negative,Resolved,0,0.8,1,East
+TKT000100,CUST84747,2026-05-20 01:20:00,2026-05-20 01:42:04,Email,Hindi,DTH,Network Issue,Critical,AG117,379,945,0,2.4,Neutral,Pending,0,0.69,0,West
+TKT000101,CUST36090,2026-03-09 22:31:00,2026-03-09 22:54:10,WhatsApp,Hindi,Internet,Password Reset,Low,AG105,576,814,1,4.4,Negative,Pending,1,0.83,0,North
+TKT000102,CUST49221,2026-03-01 16:54:00,2026-03-01 17:09:43,WhatsApp,Hindi,Billing,SIM Activation,Critical,AG127,171,772,1,5.0,Positive,Pending,1,0.88,1,East
+TKT000103,CUST85821,2026-05-26 01:04:00,2026-05-26 01:15:04,Voice,Hindi,Broadband,Billing Query,Critical,AG105,490,174,1,4.9,Negative,Escalated,0,0.84,0,North
+TKT000104,CUST36724,2026-01-04 10:44:00,2026-01-04 11:06:29,WhatsApp,Hindi,Internet,Billing Query,Medium,AG118,326,1023,1,2.9,Neutral,In Progress,1,0.76,0,West
+TKT000105,CUST99226,2026-06-16 01:07:00,2026-06-16 01:30:05,Email,Hindi,Broadband,Plan Upgrade,Medium,AG109,564,821,1,4.2,Negative,Pending,0,0.97,1,East
+TKT000106,CUST83464,2026-05-09 07:45:00,2026-05-09 08:02:29,Email,Tamil,Internet,Complaint,Critical,AG127,505,544,1,3.7,Neutral,Escalated,1,0.66,0,East
+TKT000107,CUST80592,2026-06-18 05:03:00,2026-06-18 05:24:32,Email,English,Internet,Plan Upgrade,Medium,AG102,267,1025,1,3.0,Negative,Escalated,0,0.67,1,East
+TKT000108,CUST82135,2026-05-11 14:11:00,2026-05-11 14:30:54,Chat,Tamil,Broadband,Device Setup,Medium,AG125,107,1087,0,1.0,Neutral,Pending,1,0.87,0,North
+TKT000109,CUST33040,2026-04-08 10:06:00,2026-04-08 10:12:20,Voice,Tamil,Broadband,Billing Query,High,AG129,184,196,1,4.7,Positive,Resolved,1,0.84,0,East
+TKT000110,CUST27589,2026-02-21 19:16:00,2026-02-21 19:42:51,WhatsApp,Tamil,Mobile,Network Issue,High,AG106,561,1050,1,4.7,Negative,In Progress,1,0.89,0,East
+TKT000111,CUST93719,2026-05-24 22:54:00,2026-05-24 23:15:50,WhatsApp,Hindi,DTH,Network Issue,Critical,AG122,586,724,0,1.6,Positive,Escalated,0,0.81,0,South
+TKT000112,CUST53204,2026-02-17 11:23:00,2026-02-17 11:42:11,Voice,Tamil,DTH,Plan Upgrade,Low,AG122,246,905,1,4.4,Positive,In Progress,1,0.7,1,South
+TKT000113,CUST27507,2026-04-27 06:34:00,2026-04-27 06:52:25,WhatsApp,Hindi,Billing,Refund,Critical,AG123,381,724,0,1.8,Negative,In Progress,0,0.91,0,West
+TKT000114,CUST81781,2026-04-07 03:37:00,2026-04-07 03:52:44,Chat,Hindi,Billing,Billing Query,Medium,AG111,84,860,0,1.2,Negative,In Progress,0,0.88,1,South
+TKT000115,CUST77272,2026-06-13 15:18:00,2026-06-13 15:45:06,Voice,Hindi,Broadband,SIM Activation,Low,AG113,461,1165,0,2.6,Neutral,Resolved,0,0.85,0,West
+TKT000116,CUST19046,2026-03-04 17:16:00,2026-03-04 17:29:29,WhatsApp,English,DTH,Complaint,Medium,AG125,559,250,0,4.3,Positive,In Progress,1,0.99,1,West
+TKT000117,CUST96742,2026-06-08 07:25:00,2026-06-08 07:46:22,Chat,Hindi,DTH,Network Issue,Medium,AG118,389,893,0,3.4,Neutral,Escalated,0,0.93,0,East
+TKT000118,CUST42441,2026-03-26 06:53:00,2026-03-26 07:18:37,Chat,Tamil,Mobile,Network Issue,Low,AG126,549,988,1,4.6,Negative,In Progress,0,0.73,0,South
+TKT000119,CUST15798,2026-04-19 02:58:00,2026-04-19 03:08:50,Chat,Hindi,Mobile,Password Reset,Medium,AG117,462,188,0,1.9,Neutral,Escalated,1,0.85,1,North
+TKT000120,CUST46064,2026-02-24 22:25:00,,Chat,Hindi,Broadband,Device Setup,Low,AG112,538,413,0,2.4,Negative,In Progress,1,0.89,1,North
+TKT000121,CUST39536,2026-02-24 14:13:00,2026-02-24 14:31:03,Chat,Tamil,Internet,Complaint,Critical,AG118,193,890,1,3.1,Negative,Escalated,1,0.73,0,East
+TKT000122,CUST34966,2026-04-28 17:30:00,,WhatsApp,Hindi,Billing,Password Reset,Low,AG107,465,281,1,2.7,Negative,Escalated,1,0.72,1,East
+TKT000123,CUST25376,2026-06-24 05:16:00,2026-06-24 05:22:12,WhatsApp,English,Billing,Plan Upgrade,Critical,AG130,221,151,0,4.4,Positive,Pending,1,0.78,1,East
+TKT000124,CUST71537,2026-02-17 14:46:00,2026-02-17 15:09:06,Email,English,DTH,Refund,Critical,AG102,530,856,1,3.7,Negative,Escalated,0,0.66,1,East
+TKT000125,CUST42208,2026-01-28 17:53:00,2026-01-28 18:07:23,Email,Tamil,Broadband,Device Setup,Critical,AG106,342,521,0,2.3,Negative,Pending,0,0.7,1,North
+TKT000126,CUST19742,2026-06-16 21:59:00,2026-06-16 22:12:01,Voice,English,Broadband,Billing Query,Medium,AG103,541,240,0,3.9,Negative,Escalated,0,0.72,1,East
+TKT000127,CUST82305,2026-01-12 00:06:00,2026-01-12 00:32:53,Voice,Hindi,DTH,SIM Activation,Low,AG117,504,1109,0,1.0,Negative,In Progress,0,0.69,0,North
+TKT000128,CUST45038,2026-02-13 20:48:00,2026-02-13 21:05:37,Voice,Tamil,Broadband,Device Setup,Medium,AG123,544,513,1,4.5,Positive,Pending,0,0.87,0,South
+TKT000129,CUST11238,2026-03-15 18:41:00,2026-03-15 19:02:27,Voice,Tamil,Broadband,Refund,Low,AG129,391,896,1,2.6,Negative,Resolved,0,0.72,1,East
+TKT000130,CUST51220,2026-01-09 11:25:00,,Chat,Hindi,Mobile,Complaint,Low,AG110,292,272,0,1.6,Positive,Escalated,1,0.88,1,West
+TKT000131,CUST67290,2026-05-18 13:18:00,2026-05-18 13:26:11,Voice,Tamil,Billing,Complaint,High,AG101,85,406,1,2.6,Negative,Pending,1,0.82,1,West
+TKT000132,CUST48715,2026-03-20 14:46:00,2026-03-20 15:00:54,Voice,English,DTH,Billing Query,Critical,AG123,394,500,0,3.7,Negative,Escalated,1,0.76,0,South
+TKT000133,CUST23399,2026-01-01 22:41:00,2026-01-01 23:01:11,Chat,Tamil,Broadband,Complaint,Low,AG101,460,751,1,4.4,Positive,Pending,0,0.85,1,West
+TKT000134,CUST83339,2026-01-03 05:55:00,2026-01-03 06:14:05,Chat,Hindi,Billing,Billing Query,Critical,AG106,428,717,1,4.4,Positive,Pending,1,0.74,0,South
+TKT000135,CUST20082,2026-01-31 10:32:00,2026-01-31 10:53:37,Chat,Hindi,Broadband,Plan Upgrade,Critical,AG104,287,1010,1,3.2,Positive,Pending,0,0.97,1,West
+TKT000136,CUST95332,2026-05-27 09:03:00,2026-05-27 09:23:49,Chat,Tamil,DTH,Plan Upgrade,Critical,AG111,455,794,1,3.6,Positive,In Progress,1,0.75,1,North
+TKT000137,CUST83905,2026-03-01 07:49:00,2026-03-01 08:08:42,Chat,Hindi,Billing,Password Reset,Critical,AG123,292,890,1,3.4,Positive,In Progress,1,0.93,0,West
+TKT000138,CUST96332,2026-05-03 12:17:00,2026-05-03 12:38:29,WhatsApp,Tamil,Internet,Device Setup,Critical,AG119,147,1142,1,3.1,Neutral,In Progress,0,0.92,1,South
+TKT000139,CUST15806,2026-01-20 21:50:00,2026-01-20 22:06:36,WhatsApp,Tamil,Broadband,Network Issue,Low,AG104,368,628,0,3.3,Neutral,Escalated,0,0.8,1,West
+TKT000140,CUST73277,2026-05-21 14:24:00,2026-05-21 14:45:43,WhatsApp,English,Internet,Billing Query,High,AG110,159,1144,1,5.0,Neutral,In Progress,0,0.83,1,West
+TKT000141,CUST15856,2026-01-18 18:31:00,2026-01-18 18:55:45,Voice,English,DTH,Network Issue,Medium,AG130,468,1017,1,2.7,Negative,Escalated,0,0.84,1,West
+TKT000142,CUST34430,2026-06-24 11:35:00,2026-06-24 11:56:48,WhatsApp,Tamil,Internet,Plan Upgrade,Critical,AG119,242,1066,1,4.1,Neutral,In Progress,0,0.89,0,East
+TKT000143,CUST80371,2026-05-17 22:57:00,2026-05-17 23:11:04,Email,English,Broadband,Network Issue,High,AG122,596,248,0,3.8,Neutral,Pending,1,0.86,0,East
+TKT000144,CUST87354,2026-03-06 01:50:00,,Chat,Tamil,Internet,Plan Upgrade,High,AG104,181,1057,1,4.8,Positive,Pending,0,0.82,1,North
+TKT000145,CUST80435,2026-04-15 15:21:00,2026-04-15 15:43:23,Chat,Hindi,Mobile,Device Setup,High,AG105,438,905,0,2.7,Positive,Pending,1,0.86,1,South
+TKT000146,CUST76248,2026-03-30 05:17:00,2026-03-30 05:27:03,WhatsApp,Hindi,Broadband,Complaint,Critical,AG116,204,399,1,4.9,Positive,Resolved,0,0.92,0,East
+TKT000147,CUST69942,2026-01-06 22:50:00,2026-01-06 23:05:17,WhatsApp,Hindi,Billing,Network Issue,Low,AG109,235,682,1,2.9,Negative,Pending,0,0.91,1,North
+TKT000148,CUST14224,2026-03-19 09:31:00,2026-03-19 09:40:47,Email,English,Broadband,Network Issue,Medium,AG107,258,329,1,4.7,Negative,Pending,1,0.71,0,North
+TKT000149,CUST88231,2026-05-29 02:21:00,2026-05-29 02:31:08,Email,Hindi,DTH,SIM Activation,High,AG128,65,543,1,3.8,Negative,Resolved,0,0.98,1,South
+TKT000150,CUST52217,2026-02-20 11:38:00,2026-02-20 11:46:39,WhatsApp,Tamil,Mobile,SIM Activation,Critical,AG113,140,379,0,1.5,Neutral,Resolved,0,0.79,1,East
+TKT000151,CUST22208,2026-03-24 18:35:00,2026-03-24 18:59:19,WhatsApp,Hindi,DTH,Network Issue,Critical,AG107,340,1119,0,4.0,Neutral,Escalated,1,0.74,1,East
+TKT000152,CUST99463,2026-04-10 15:14:00,2026-04-10 15:30:11,Voice,English,Broadband,Password Reset,Low,AG130,584,387,1,4.5,Positive,In Progress,1,0.65,1,North
+TKT000153,CUST45916,2026-05-06 08:30:00,,Email,Tamil,Internet,Refund,Medium,AG102,314,390,0,4.1,Neutral,Pending,0,0.8,0,South
+TKT000154,CUST39647,2026-01-01 04:44:00,2026-01-01 05:01:30,WhatsApp,English,Internet,Refund,Low,AG128,493,557,0,1.5,Neutral,Escalated,1,0.67,1,South
+TKT000155,CUST49223,2026-05-14 00:45:00,2026-05-14 00:52:19,Chat,Hindi,Mobile,Network Issue,Low,AG120,110,329,1,3.4,Negative,Escalated,1,0.77,0,North
+TKT000156,CUST23168,2026-06-17 11:04:00,2026-06-17 11:27:41,Voice,Hindi,Broadband,Refund,Critical,AG111,458,963,0,1.3,Positive,Escalated,1,0.87,0,East
+TKT000157,CUST76784,2026-05-22 19:22:00,2026-05-22 19:30:07,WhatsApp,Tamil,Internet,Plan Upgrade,Critical,AG113,313,174,0,2.8,Positive,Escalated,1,0.87,0,South
+TKT000158,CUST84498,2026-06-29 15:45:00,2026-06-29 16:04:48,Chat,Tamil,Internet,Password Reset,Low,AG101,329,859,0,2.4,Neutral,Escalated,0,0.96,1,East
+TKT000159,CUST20803,2026-04-25 10:16:00,2026-04-25 10:42:16,Chat,Tamil,Internet,SIM Activation,Low,AG117,430,1146,1,4.3,Positive,Escalated,1,0.78,0,East
+TKT000160,CUST66948,2026-05-08 04:33:00,2026-05-08 04:54:04,Voice,Tamil,Mobile,Network Issue,Low,AG123,249,1015,0,1.9,Positive,Resolved,0,0.82,1,East
+TKT000161,CUST25473,2026-01-31 09:28:00,2026-01-31 09:44:55,Voice,Tamil,Broadband,SIM Activation,Low,AG109,134,881,1,4.3,Negative,Resolved,1,0.8,1,South
+TKT000162,CUST23487,2026-04-01 22:49:00,2026-04-01 23:03:02,Voice,English,Billing,Password Reset,Low,AG128,381,461,0,1.9,Positive,Escalated,0,0.81,1,North
+TKT000163,CUST42540,2026-02-02 13:53:00,2026-02-02 14:05:43,Email,Tamil,Internet,Refund,Low,AG117,571,192,1,3.1,Negative,Resolved,0,0.73,0,West
+TKT000164,CUST82494,2026-01-13 13:08:00,2026-01-13 13:30:46,Email,English,DTH,SIM Activation,Medium,AG115,294,1072,1,3.3,Neutral,In Progress,0,0.9,0,North
+TKT000165,CUST93354,2026-01-02 03:51:00,2026-01-02 04:07:28,Voice,Tamil,Internet,Complaint,High,AG104,29,959,0,2.9,Positive,Escalated,1,0.82,0,North
+TKT000166,CUST78125,2026-05-10 13:15:00,2026-05-10 13:28:13,Email,Tamil,Internet,Network Issue,Medium,AG121,100,693,0,4.2,Neutral,Resolved,0,0.8,0,North
+TKT000167,CUST52762,2026-02-23 02:21:00,2026-02-23 02:37:21,Email,English,Internet,Plan Upgrade,Medium,AG125,327,654,1,4.3,Negative,Resolved,0,0.69,1,West
+TKT000168,CUST37215,2026-02-27 04:01:00,2026-02-27 04:19:00,WhatsApp,Tamil,Internet,Network Issue,Medium,AG126,128,952,1,4.9,Negative,Pending,0,0.72,1,North
+TKT000169,CUST98759,2026-01-17 14:30:00,2026-01-17 14:46:37,Chat,English,Broadband,Device Setup,Medium,AG104,369,628,1,3.8,Neutral,Resolved,0,0.69,0,North
+TKT000170,CUST94500,2026-01-24 19:06:00,,Email,English,Internet,Network Issue,Medium,AG129,415,525,1,4.2,Negative,In Progress,0,0.68,1,South
+TKT000171,CUST66774,2026-01-08 18:32:00,2026-01-08 18:50:40,WhatsApp,Tamil,Internet,Complaint,Critical,AG106,56,1064,0,4.2,Neutral,Escalated,0,0.74,1,North
+TKT000172,CUST82179,2026-01-07 07:23:00,2026-01-07 07:38:30,Voice,Tamil,Broadband,Billing Query,Critical,AG107,307,623,1,3.5,Negative,Escalated,0,0.99,1,West
+TKT000173,CUST33568,2026-04-10 03:02:00,,Chat,English,DTH,Password Reset,Critical,AG117,357,1112,1,3.5,Neutral,Escalated,0,0.68,0,East
+TKT000174,CUST32768,2026-04-08 03:43:00,2026-04-08 03:50:43,Email,Hindi,DTH,Password Reset,High,AG119,229,234,1,3.4,Negative,Escalated,0,0.93,1,East
+TKT000175,CUST88861,2026-02-01 23:01:00,2026-02-01 23:20:27,WhatsApp,English,DTH,Plan Upgrade,Medium,AG111,43,1124,0,1.2,Negative,Escalated,1,0.67,0,North
+TKT000176,CUST58967,2026-05-21 23:15:00,2026-05-21 23:29:50,WhatsApp,Hindi,Internet,Refund,High,AG111,543,347,1,4.9,Positive,Escalated,1,0.92,1,East
+TKT000177,CUST48602,2026-02-01 17:06:00,2026-02-01 17:24:03,Voice,Hindi,Billing,Complaint,Low,AG106,233,850,0,2.3,Negative,Pending,0,0.87,0,West
+TKT000178,CUST51879,2026-01-26 14:28:00,2026-01-26 14:42:42,Voice,Hindi,DTH,Device Setup,Low,AG109,84,798,0,2.2,Positive,Escalated,0,0.77,0,South
+TKT000179,CUST64266,2026-01-09 18:21:00,2026-01-09 18:43:43,WhatsApp,Tamil,Billing,Complaint,Low,AG127,453,910,1,4.9,Neutral,Escalated,0,0.8,0,East
+TKT000180,CUST32296,2026-01-04 15:43:00,2026-01-04 16:00:24,Chat,Hindi,Internet,Network Issue,High,AG120,272,772,0,1.3,Negative,In Progress,0,0.8,0,West
+TKT000181,CUST34901,2026-01-29 14:23:00,2026-01-29 14:28:37,Email,Hindi,DTH,SIM Activation,Medium,AG104,108,229,1,3.0,Positive,In Progress,1,0.7,1,South
+TKT000182,CUST13373,2026-03-19 20:14:00,2026-03-19 20:24:05,Email,English,Broadband,Network Issue,High,AG126,306,299,1,3.0,Neutral,In Progress,1,0.95,1,South
+TKT000183,CUST58418,2026-04-27 20:21:00,2026-04-27 20:39:27,Voice,Tamil,Broadband,Device Setup,High,AG108,194,913,1,4.7,Neutral,Resolved,0,0.91,0,South
+TKT000184,CUST87296,2026-05-02 15:09:00,2026-05-02 15:32:03,Voice,Tamil,Billing,Complaint,Critical,AG119,559,824,1,4.9,Positive,In Progress,1,0.68,0,North
+TKT000185,CUST35260,2026-01-22 21:31:00,2026-01-22 21:51:21,WhatsApp,English,Broadband,Plan Upgrade,Medium,AG127,182,1039,0,4.4,Negative,Pending,1,0.96,0,South
+TKT000186,CUST78116,2026-03-12 15:37:00,2026-03-12 16:02:03,Voice,Hindi,Billing,Complaint,Low,AG114,570,933,1,4.6,Positive,Escalated,0,0.96,0,East
+TKT000187,CUST73646,2026-06-07 22:03:00,2026-06-07 22:23:49,WhatsApp,English,Mobile,SIM Activation,Critical,AG105,425,824,1,3.5,Negative,In Progress,0,0.78,1,North
+TKT000188,CUST49722,2026-01-09 23:21:00,2026-01-09 23:43:53,WhatsApp,Hindi,Internet,Plan Upgrade,Medium,AG110,280,1093,1,2.6,Negative,In Progress,1,0.74,1,South
+TKT000189,CUST77698,2026-02-04 05:06:00,2026-02-04 05:26:45,Voice,Hindi,Mobile,Network Issue,High,AG123,221,1024,1,4.4,Negative,In Progress,0,0.92,0,North
+TKT000190,CUST16626,2026-02-05 02:11:00,2026-02-05 02:20:55,Chat,Tamil,DTH,Device Setup,Critical,AG121,64,531,0,1.1,Positive,Resolved,0,0.78,1,North
+TKT000191,CUST43903,2026-06-24 20:34:00,2026-06-24 21:01:40,Voice,Tamil,Internet,Complaint,Low,AG106,569,1091,1,3.4,Negative,Escalated,0,0.87,0,East
+TKT000192,CUST99417,2026-04-29 14:49:00,,Chat,Hindi,Mobile,Password Reset,Medium,AG109,530,958,0,4.0,Negative,Pending,1,0.79,1,East
+TKT000193,CUST78241,2026-03-25 13:23:00,2026-03-25 13:37:24,WhatsApp,Hindi,Internet,Password Reset,High,AG118,228,636,1,3.3,Negative,Pending,1,0.88,1,South
+TKT000194,CUST95389,2026-03-03 05:14:00,2026-03-03 05:31:03,Chat,Hindi,Mobile,Password Reset,Critical,AG122,337,686,1,3.2,Neutral,Escalated,0,0.87,1,East
+TKT000195,CUST86418,2026-06-15 02:21:00,2026-06-15 02:44:16,Chat,Tamil,Mobile,Device Setup,High,AG117,419,977,1,4.3,Neutral,Escalated,0,0.75,1,North
+TKT000196,CUST53992,2026-05-15 21:07:00,2026-05-15 21:27:26,Chat,Tamil,Mobile,SIM Activation,Critical,AG126,577,649,0,4.3,Neutral,Pending,1,0.85,1,South
+TKT000197,CUST35499,2026-03-27 15:48:00,2026-03-27 16:01:48,WhatsApp,Hindi,DTH,Complaint,Low,AG128,599,229,0,2.7,Positive,Escalated,0,0.77,1,North
+TKT000198,CUST33176,2026-02-27 14:18:00,2026-02-27 14:27:36,Voice,English,Broadband,SIM Activation,Medium,AG125,87,489,1,3.3,Positive,Escalated,1,0.92,0,North
+TKT000199,CUST72573,2026-04-22 20:42:00,2026-04-22 21:06:12,Voice,Hindi,Mobile,Refund,Low,AG129,444,1008,1,3.6,Neutral,Escalated,0,0.88,0,North
+TKT000200,CUST75973,2026-05-07 06:03:00,2026-05-07 06:22:09,Chat,English,Internet,SIM Activation,High,AG115,324,825,0,1.4,Negative,Pending,1,0.95,0,East
+TKT000201,CUST62873,2026-06-14 02:12:00,,Chat,Hindi,Mobile,Plan Upgrade,Low,AG119,372,1123,0,1.6,Negative,Escalated,0,0.77,0,West
+TKT000202,CUST16286,2026-06-09 13:40:00,2026-06-09 13:59:55,Voice,English,Internet,Complaint,Critical,AG113,552,643,0,3.1,Positive,Pending,1,0.89,0,South
+TKT000203,CUST27978,2026-02-24 19:35:00,2026-02-24 19:53:09,Voice,Hindi,Billing,Network Issue,High,AG104,108,981,1,4.1,Positive,In Progress,0,0.86,1,North
+TKT000204,CUST75058,2026-03-07 03:47:00,2026-03-07 04:08:06,WhatsApp,Tamil,Mobile,Password Reset,Low,AG122,307,959,0,1.1,Positive,Resolved,1,0.7,0,South
+TKT000205,CUST48800,2026-05-12 17:17:00,2026-05-12 17:26:54,Voice,English,Mobile,Password Reset,High,AG112,267,327,0,2.6,Negative,Pending,1,0.9,0,South
+TKT000206,CUST67372,2026-01-02 18:15:00,2026-01-02 18:24:42,Email,Hindi,Internet,Refund,High,AG106,179,403,1,3.4,Positive,In Progress,1,0.98,1,West
+TKT000207,CUST17686,2026-05-06 14:13:00,2026-05-06 14:38:35,Chat,English,Broadband,Device Setup,Critical,AG106,436,1099,0,1.4,Negative,In Progress,1,0.86,0,West
+TKT000208,CUST18301,2026-06-17 13:16:00,2026-06-17 13:36:39,Email,English,Billing,Plan Upgrade,High,AG117,120,1119,1,3.6,Negative,Resolved,1,0.87,0,West
+TKT000209,CUST30568,2026-03-04 22:36:00,2026-03-04 22:53:45,WhatsApp,Tamil,Mobile,Network Issue,Critical,AG111,157,908,0,1.0,Positive,Pending,1,0.67,0,West
+TKT000210,CUST85108,2026-03-15 09:56:00,2026-03-15 10:07:26,WhatsApp,Tamil,DTH,Network Issue,Critical,AG124,85,601,1,3.6,Negative,Resolved,0,0.79,0,South
+TKT000211,CUST69796,2026-05-31 08:27:00,2026-05-31 08:37:22,Email,English,Mobile,Device Setup,High,AG118,316,306,0,3.3,Negative,In Progress,1,0.89,0,South
+TKT000212,CUST93055,2026-05-19 05:31:00,2026-05-19 05:40:41,Email,Hindi,Billing,Refund,Low,AG102,7,574,1,3.4,Positive,In Progress,0,0.93,1,South
+TKT000213,CUST61497,2026-02-16 07:00:00,2026-02-16 07:11:58,Chat,Hindi,DTH,Network Issue,Critical,AG102,197,521,0,4.3,Negative,Resolved,1,0.81,0,West
+TKT000214,CUST73298,2026-01-01 18:57:00,2026-01-01 19:10:10,Chat,Hindi,Billing,Billing Query,Medium,AG104,571,219,1,4.6,Neutral,Pending,1,0.79,0,East
+TKT000215,CUST28111,2026-03-14 10:19:00,2026-03-14 10:37:48,Email,Hindi,Billing,Refund,Medium,AG107,306,822,1,4.5,Positive,Pending,1,0.96,0,North
+TKT000216,CUST86389,2026-04-02 17:32:00,2026-04-02 17:47:03,WhatsApp,Hindi,Billing,SIM Activation,Critical,AG126,123,780,1,3.9,Positive,Resolved,0,0.78,0,South
+TKT000217,CUST29192,2026-02-06 09:23:00,2026-02-06 09:36:55,Email,English,Billing,Password Reset,High,AG127,169,666,1,4.2,Neutral,Resolved,0,0.9,1,North
+TKT000218,CUST99803,2026-04-04 00:15:00,2026-04-04 00:27:42,Voice,English,DTH,Plan Upgrade,Critical,AG127,53,709,1,3.5,Positive,Pending,0,0.91,0,East
+TKT000219,CUST77350,2026-03-23 16:54:00,2026-03-23 17:03:24,Voice,Tamil,DTH,SIM Activation,Medium,AG106,81,483,0,4.4,Negative,Pending,0,0.76,0,South
+TKT000220,CUST85061,2026-01-28 23:32:00,2026-01-28 23:45:57,Voice,Hindi,DTH,Plan Upgrade,Medium,AG117,57,780,1,3.7,Positive,Escalated,1,0.83,1,South
+TKT000221,CUST48479,2026-03-05 14:33:00,2026-03-05 14:46:16,WhatsApp,Hindi,Internet,Network Issue,High,AG115,223,573,1,3.3,Positive,Escalated,0,0.88,1,West
+TKT000222,CUST47070,2026-06-16 17:46:00,,Email,Hindi,Billing,Device Setup,Critical,AG102,400,352,1,3.9,Neutral,Escalated,1,0.82,0,North
+TKT000223,CUST37941,2026-06-26 21:06:00,2026-06-26 21:09:27,WhatsApp,English,Mobile,Complaint,Low,AG124,72,135,0,3.3,Negative,Escalated,0,0.81,1,South
+TKT000224,CUST83149,2026-01-16 22:23:00,,Chat,Tamil,Broadband,Complaint,Critical,AG121,60,270,0,3.8,Neutral,In Progress,1,0.66,0,South
+TKT000225,CUST75907,2026-04-27 18:25:00,2026-04-27 18:30:00,Email,Hindi,Internet,SIM Activation,Critical,AG113,51,249,0,2.3,Neutral,Resolved,1,0.7,0,North
+TKT000226,CUST28884,2026-05-16 22:37:00,2026-05-16 23:01:43,Email,English,Billing,Billing Query,Low,AG102,563,920,1,4.9,Positive,In Progress,0,0.75,1,North
+TKT000227,CUST90856,2026-03-17 02:54:00,2026-03-17 03:15:59,Chat,English,Mobile,Password Reset,Critical,AG121,150,1169,0,1.6,Negative,Resolved,1,0.88,1,South
+TKT000228,CUST95914,2026-02-05 22:31:00,2026-02-05 22:55:20,Email,Hindi,Internet,Plan Upgrade,High,AG116,343,1117,1,2.8,Neutral,Pending,1,0.89,0,East
+TKT000229,CUST42266,2026-05-28 00:53:00,2026-05-28 01:13:10,WhatsApp,Tamil,DTH,Billing Query,High,AG129,443,767,0,1.0,Neutral,In Progress,1,0.77,1,West
+TKT000230,CUST28350,2026-04-11 10:17:00,2026-04-11 10:25:46,Chat,Tamil,Internet,Network Issue,Low,AG128,184,342,0,3.9,Negative,Resolved,1,0.91,0,South
+TKT000231,CUST29481,2026-04-11 09:57:00,2026-04-11 10:17:14,Chat,Hindi,DTH,Billing Query,Critical,AG117,561,653,1,4.1,Negative,Resolved,1,0.77,0,North
+TKT000232,CUST33480,2026-06-04 08:53:00,2026-06-04 09:09:30,Chat,Hindi,Broadband,Refund,Low,AG108,531,459,0,2.6,Neutral,Escalated,0,0.74,0,South
+TKT000233,CUST69591,2026-05-02 17:05:00,2026-05-02 17:22:58,Voice,Hindi,DTH,Network Issue,High,AG127,535,543,1,3.5,Negative,Pending,0,0.78,1,East
+TKT000234,CUST39215,2026-04-17 23:36:00,2026-04-17 23:49:33,Email,Tamil,Broadband,Device Setup,Low,AG117,534,279,1,3.4,Positive,In Progress,0,0.73,1,North
+TKT000235,CUST25509,2026-01-28 08:24:00,2026-01-28 08:35:08,WhatsApp,Tamil,Internet,Device Setup,Critical,AG116,166,502,1,4.0,Positive,Escalated,1,0.66,0,North
+TKT000236,CUST29249,2026-04-15 09:36:00,,Email,English,Billing,Complaint,Low,AG129,142,449,0,4.1,Negative,Pending,0,0.72,1,West
+TKT000237,CUST33839,2026-02-01 01:13:00,2026-02-01 01:29:34,Email,English,DTH,Device Setup,Low,AG108,425,569,0,3.8,Neutral,In Progress,0,0.69,0,West
+TKT000238,CUST90576,2026-05-31 11:05:00,2026-05-31 11:13:49,Voice,English,Broadband,Billing Query,Low,AG129,103,426,0,2.7,Negative,In Progress,1,0.78,0,West
+TKT000239,CUST85513,2026-02-11 18:38:00,,Chat,Tamil,Broadband,Plan Upgrade,Low,AG110,395,1107,1,4.0,Negative,In Progress,1,0.71,0,South
+TKT000240,CUST51405,2026-04-05 14:52:00,2026-04-05 15:00:43,Voice,English,Broadband,SIM Activation,High,AG128,389,134,0,3.4,Negative,In Progress,1,0.86,1,North
+TKT000241,CUST73407,2026-03-17 05:25:00,2026-03-17 05:46:36,Email,Hindi,DTH,Complaint,Medium,AG128,188,1108,1,3.9,Negative,Resolved,0,0.8,0,South
+TKT000242,CUST90481,2026-02-09 00:58:00,2026-02-09 01:24:16,Voice,English,Broadband,Password Reset,Low,AG127,415,1161,1,4.5,Positive,In Progress,1,0.68,1,North
+TKT000243,CUST62513,2026-03-09 12:12:00,2026-03-09 12:17:26,Email,Hindi,Billing,Password Reset,Medium,AG121,43,283,1,4.8,Neutral,In Progress,0,0.72,1,North
+TKT000244,CUST98345,2026-01-07 02:50:00,,Chat,Hindi,Internet,Billing Query,Low,AG109,533,1165,0,3.2,Neutral,Pending,1,0.79,0,South
+TKT000245,CUST83284,2026-05-15 03:40:00,2026-05-15 03:45:57,Email,Tamil,DTH,Plan Upgrade,Medium,AG115,97,260,1,4.3,Neutral,Resolved,1,0.71,0,South
+TKT000246,CUST43776,2026-04-02 14:22:00,2026-04-02 14:39:55,Email,Hindi,Broadband,Complaint,Critical,AG125,353,722,0,3.8,Positive,Pending,1,0.88,0,West
+TKT000247,CUST38885,2026-01-22 03:59:00,2026-01-22 04:11:02,Chat,Tamil,Broadband,Refund,Low,AG123,74,648,1,4.1,Neutral,Escalated,1,0.68,1,South
+TKT000248,CUST85197,2026-04-11 22:52:00,2026-04-11 23:08:17,Chat,Tamil,Mobile,Plan Upgrade,Medium,AG128,492,485,1,3.4,Neutral,Escalated,0,0.72,0,East
+TKT000249,CUST96956,2026-01-29 09:33:00,2026-01-29 09:40:45,Voice,Hindi,Internet,Device Setup,High,AG120,127,338,0,3.4,Neutral,In Progress,1,0.82,1,West
+TKT000250,CUST80879,2026-02-10 10:20:00,,Email,Tamil,Mobile,Device Setup,Low,AG123,60,382,1,3.7,Negative,In Progress,1,0.88,0,North
+TKT000251,CUST44039,2026-03-11 01:44:00,2026-03-11 01:55:04,Email,English,DTH,Device Setup,High,AG112,338,326,1,4.0,Positive,In Progress,1,0.72,1,East
+TKT000252,CUST27188,2026-06-05 12:36:00,2026-06-05 12:56:31,Chat,English,DTH,Plan Upgrade,Critical,AG128,291,940,1,2.9,Neutral,Escalated,0,0.92,0,West
+TKT000253,CUST92660,2026-05-27 16:01:00,2026-05-27 16:06:24,Email,Tamil,DTH,SIM Activation,Low,AG113,185,139,1,3.7,Positive,Escalated,0,0.72,1,West
+TKT000254,CUST57226,2026-06-02 17:31:00,2026-06-02 17:44:02,Email,Tamil,Internet,Complaint,Low,AG112,465,317,1,3.1,Negative,Escalated,0,0.98,1,East
+TKT000255,CUST59947,2026-03-01 04:20:00,2026-03-01 04:47:49,WhatsApp,Hindi,Mobile,Billing Query,High,AG114,504,1165,1,4.7,Negative,In Progress,0,0.68,1,North
+TKT000256,CUST61833,2026-02-27 01:37:00,2026-02-27 01:54:51,WhatsApp,Tamil,Billing,Device Setup,Critical,AG106,303,768,1,4.0,Positive,Resolved,0,0.9,1,South
+TKT000257,CUST72021,2026-02-08 08:00:00,2026-02-08 08:14:32,Voice,Tamil,Billing,Network Issue,Low,AG109,411,461,0,1.3,Negative,Escalated,0,0.87,1,East
+TKT000258,CUST27206,2026-02-11 18:04:00,2026-02-11 18:19:21,Chat,English,Internet,Refund,High,AG128,295,626,1,4.1,Neutral,In Progress,1,0.84,0,North
+TKT000259,CUST93824,2026-04-18 13:22:00,2026-04-18 13:49:17,Email,Tamil,Billing,Plan Upgrade,Low,AG115,582,1055,1,3.8,Neutral,Pending,1,0.74,1,South
+TKT000260,CUST80136,2026-01-01 00:24:00,,WhatsApp,Tamil,DTH,Password Reset,Critical,AG126,144,1191,1,3.2,Neutral,Escalated,0,0.84,0,West
+TKT000261,CUST94671,2026-06-10 14:13:00,2026-06-10 14:36:44,WhatsApp,English,DTH,Network Issue,Critical,AG121,409,1015,0,1.6,Positive,Pending,1,0.87,1,West
+TKT000262,CUST93478,2026-02-04 05:23:00,2026-02-04 05:30:31,WhatsApp,Tamil,Billing,Device Setup,Medium,AG111,191,260,0,2.0,Positive,Escalated,0,0.98,0,North
+TKT000263,CUST67464,2026-06-27 00:11:00,2026-06-27 00:21:22,Chat,English,Mobile,Password Reset,Critical,AG107,293,329,1,2.8,Neutral,In Progress,1,0.92,1,East
+TKT000264,CUST29148,2026-03-26 09:52:00,,WhatsApp,English,Billing,Device Setup,Medium,AG107,343,184,0,4.0,Neutral,In Progress,0,0.69,0,West
+TKT000265,CUST22315,2026-05-21 09:32:00,2026-05-21 09:53:25,Chat,Tamil,Broadband,SIM Activation,High,AG106,258,1027,0,1.7,Negative,Resolved,0,0.74,1,North
+TKT000266,CUST66906,2026-03-07 14:43:00,2026-03-07 14:50:34,Chat,Tamil,Billing,Network Issue,Critical,AG126,228,226,0,1.8,Positive,Resolved,0,0.85,1,North
+TKT000267,CUST99908,2026-03-09 14:39:00,2026-03-09 14:48:22,Voice,English,DTH,Billing Query,Low,AG105,259,303,0,2.7,Neutral,Escalated,1,0.98,1,West
+TKT000268,CUST27659,2026-05-14 11:21:00,2026-05-14 11:30:01,Voice,Tamil,Broadband,SIM Activation,Critical,AG107,26,515,1,3.4,Negative,Escalated,1,0.76,1,East
+TKT000269,CUST44517,2026-06-07 22:52:00,2026-06-07 23:00:43,WhatsApp,English,Billing,Complaint,Medium,AG129,75,448,0,2.6,Positive,Pending,0,0.76,0,West
+TKT000270,CUST52283,2026-02-04 13:33:00,2026-02-04 14:01:27,Email,English,Internet,Network Issue,Low,AG127,514,1193,0,3.1,Positive,Escalated,0,0.72,1,North
+TKT000271,CUST78920,2026-01-18 23:27:00,2026-01-18 23:39:54,Email,English,DTH,Plan Upgrade,Low,AG101,589,185,1,4.1,Positive,In Progress,0,0.81,0,East
+TKT000272,CUST44840,2026-04-12 14:01:00,2026-04-12 14:23:33,Voice,Tamil,Internet,Plan Upgrade,Low,AG104,382,971,0,3.9,Negative,Escalated,1,0.71,0,North
+TKT000273,CUST97194,2026-04-12 15:47:00,2026-04-12 16:05:03,Voice,English,Mobile,Complaint,High,AG122,113,970,1,4.2,Positive,In Progress,1,0.96,1,East
+TKT000274,CUST38039,2026-03-17 01:33:00,2026-03-17 01:55:17,Email,Tamil,Broadband,Device Setup,Critical,AG101,336,1001,0,3.0,Negative,Resolved,1,0.85,0,East
+TKT000275,CUST12844,2026-01-02 04:41:00,2026-01-02 04:57:07,Email,Hindi,Billing,Billing Query,Low,AG102,232,735,0,4.0,Neutral,Pending,0,0.7,1,North
+TKT000276,CUST84588,2026-02-12 09:58:00,2026-02-12 10:13:56,Voice,Hindi,DTH,Device Setup,Medium,AG116,312,644,0,3.0,Negative,Resolved,1,0.66,1,South
+TKT000277,CUST66925,2026-05-23 00:24:00,2026-05-23 00:33:41,Voice,English,Billing,Password Reset,Critical,AG102,347,234,1,4.7,Neutral,Resolved,1,0.83,0,East
+TKT000278,CUST61495,2026-04-02 11:01:00,2026-04-02 11:13:13,Voice,English,Broadband,SIM Activation,Critical,AG105,161,572,0,3.4,Positive,Pending,0,0.81,0,West
+TKT000279,CUST27088,2026-02-17 19:07:00,2026-02-17 19:18:47,WhatsApp,Hindi,Mobile,Device Setup,Critical,AG121,413,294,1,4.4,Negative,Escalated,0,0.73,1,West
+TKT000280,CUST55653,2026-02-28 21:00:00,2026-02-28 21:07:03,Email,Hindi,Internet,SIM Activation,Medium,AG112,120,303,1,3.6,Negative,In Progress,0,0.8,0,North
+TKT000281,CUST17148,2026-05-05 18:22:00,2026-05-05 18:39:29,Chat,Tamil,Internet,Refund,Low,AG110,164,885,0,1.4,Neutral,In Progress,0,0.76,0,North
+TKT000282,CUST28526,2026-04-10 11:21:00,2026-04-10 11:45:20,Voice,Tamil,Billing,Password Reset,High,AG106,269,1191,1,4.1,Positive,Pending,0,0.92,1,South
+TKT000283,CUST96898,2026-03-26 15:26:00,2026-03-26 15:29:30,Email,English,Internet,SIM Activation,Critical,AG108,73,137,1,4.2,Neutral,Resolved,1,0.81,0,North
+TKT000284,CUST79391,2026-02-06 04:53:00,2026-02-06 05:19:58,WhatsApp,Tamil,Mobile,Password Reset,High,AG122,473,1145,0,1.1,Neutral,Pending,1,0.73,1,South
+TKT000285,CUST46725,2026-04-24 22:07:00,2026-04-24 22:24:28,Email,Tamil,Mobile,Network Issue,Critical,AG117,401,647,0,4.3,Negative,Escalated,1,0.73,0,West
+TKT000286,CUST37100,2026-06-26 16:20:00,2026-06-26 16:38:21,Chat,English,DTH,Billing Query,Critical,AG130,342,759,1,3.9,Positive,Escalated,1,0.67,0,North
+TKT000287,CUST64269,2026-02-27 19:36:00,2026-02-27 19:43:33,Email,Tamil,DTH,Billing Query,Medium,AG104,35,418,1,4.7,Positive,Escalated,0,0.91,1,North
+TKT000288,CUST72469,2026-04-19 13:32:00,2026-04-19 13:45:56,WhatsApp,Hindi,DTH,Billing Query,Critical,AG116,241,595,0,2.3,Neutral,Escalated,0,0.72,0,West
+TKT000289,CUST97993,2026-05-20 04:19:00,2026-05-20 04:26:11,Chat,English,Mobile,Device Setup,Critical,AG123,281,150,1,3.1,Neutral,In Progress,0,0.8,0,West
+TKT000290,CUST69193,2026-05-12 02:36:00,2026-05-12 02:55:28,Voice,English,Billing,Complaint,Low,AG118,408,760,0,2.8,Neutral,Resolved,0,0.75,1,East
+TKT000291,CUST90364,2026-05-21 20:14:00,2026-05-21 20:33:42,Chat,Tamil,Broadband,Network Issue,Low,AG106,477,705,0,2.5,Negative,Escalated,1,0.79,1,South
+TKT000292,CUST52477,2026-02-02 13:31:00,2026-02-02 13:52:00,Chat,Hindi,Internet,Network Issue,Low,AG123,211,1049,1,2.7,Neutral,Pending,0,0.83,1,North
+TKT000293,CUST84120,2026-03-10 22:28:00,2026-03-10 22:43:48,Chat,English,Mobile,Billing Query,Low,AG114,49,899,0,4.2,Neutral,Pending,1,0.75,0,South
+TKT000294,CUST43175,2026-06-13 13:47:00,,WhatsApp,Tamil,Billing,Password Reset,Critical,AG108,212,389,0,3.2,Positive,In Progress,1,0.79,0,South
+TKT000295,CUST29432,2026-02-14 13:10:00,,Email,English,Mobile,Password Reset,High,AG111,575,689,0,1.2,Positive,Resolved,0,0.79,0,North
+TKT000296,CUST85886,2026-05-03 08:24:00,2026-05-03 08:45:33,Voice,English,DTH,Refund,High,AG129,591,702,0,4.4,Neutral,Resolved,1,0.94,0,East
+TKT000297,CUST64232,2026-03-27 17:01:00,2026-03-27 17:09:44,Chat,Hindi,Internet,Network Issue,Low,AG116,129,395,1,3.3,Negative,Pending,1,0.86,1,East
+TKT000298,CUST92818,2026-04-06 15:28:00,2026-04-06 15:44:21,Chat,Hindi,Mobile,SIM Activation,Medium,AG101,137,844,1,3.8,Positive,Resolved,1,0.86,0,North
+TKT000299,CUST83454,2026-05-26 13:20:00,2026-05-26 13:43:17,Chat,English,Mobile,SIM Activation,High,AG126,428,969,0,2.2,Positive,Pending,1,0.82,1,South
+TKT000300,CUST90739,2026-01-21 17:21:00,2026-01-21 17:40:16,Chat,English,DTH,Refund,Critical,AG130,354,802,1,4.3,Neutral,Resolved,0,0.81,1,East
+TKT000301,CUST98892,2026-03-26 04:33:00,2026-03-26 04:50:09,Voice,English,Billing,Refund,High,AG103,62,967,1,3.9,Positive,Pending,0,0.77,1,North
+TKT000302,CUST50407,2026-04-14 22:39:00,2026-04-14 22:57:33,Email,Hindi,Internet,SIM Activation,Critical,AG103,196,917,0,4.0,Neutral,Escalated,1,0.8,1,North
+TKT000303,CUST14901,2026-04-06 14:11:00,2026-04-06 14:26:23,Voice,Tamil,Billing,Password Reset,Critical,AG129,184,739,0,2.3,Negative,Escalated,0,0.77,1,East
+TKT000304,CUST77652,2026-05-22 04:21:00,2026-05-22 04:36:41,Chat,English,Internet,Device Setup,Critical,AG123,151,790,0,3.9,Negative,Resolved,0,0.76,0,South
+TKT000305,CUST96374,2026-03-02 16:09:00,2026-03-02 16:27:48,Voice,Hindi,DTH,Plan Upgrade,High,AG107,52,1076,0,2.8,Positive,Pending,1,0.83,1,South
+TKT000306,CUST91650,2026-02-19 15:14:00,2026-02-19 15:23:51,Voice,English,Billing,Refund,High,AG109,166,425,1,2.8,Positive,Pending,0,0.71,1,East
+TKT000307,CUST98538,2026-04-09 09:49:00,,WhatsApp,English,Internet,Complaint,Critical,AG106,56,1028,0,1.1,Negative,In Progress,1,0.76,0,South
+TKT000308,CUST71377,2026-06-27 06:04:00,,Email,Hindi,Broadband,Device Setup,Medium,AG108,586,1073,0,1.3,Positive,Pending,1,0.78,1,East
+TKT000309,CUST56064,2026-03-24 12:25:00,2026-03-24 12:44:13,Chat,Tamil,DTH,Billing Query,Low,AG113,35,1118,0,2.7,Negative,Resolved,1,0.84,0,East
+TKT000310,CUST41941,2026-04-07 23:36:00,2026-04-08 00:00:39,WhatsApp,Tamil,Internet,Refund,Medium,AG127,415,1064,1,3.1,Negative,In Progress,1,0.84,1,North
+TKT000311,CUST88128,2026-02-01 12:13:00,2026-02-01 12:27:31,Voice,Tamil,Mobile,SIM Activation,Critical,AG103,592,279,1,2.8,Negative,Resolved,1,0.76,0,South
+TKT000312,CUST96623,2026-02-09 14:45:00,2026-02-09 15:01:43,Email,Tamil,Billing,Device Setup,Medium,AG107,599,404,0,3.6,Negative,Pending,1,0.84,1,West
+TKT000313,CUST76902,2026-05-11 16:04:00,2026-05-11 16:19:21,Chat,Tamil,Internet,Refund,Low,AG101,96,825,0,3.1,Negative,Pending,0,0.94,0,North
+TKT000314,CUST67041,2026-03-20 14:11:00,2026-03-20 14:31:57,Chat,Tamil,Mobile,Plan Upgrade,Critical,AG127,330,927,1,3.5,Neutral,In Progress,0,0.75,0,North
+TKT000315,CUST73792,2026-01-03 02:41:00,2026-01-03 02:45:47,Chat,English,Mobile,Complaint,Critical,AG129,21,266,0,3.5,Negative,In Progress,0,0.8,1,West
+TKT000316,CUST10973,2026-03-12 00:50:00,2026-03-12 01:08:03,Chat,Hindi,Billing,SIM Activation,Critical,AG130,236,847,0,2.5,Negative,Pending,0,0.98,1,East
+TKT000317,CUST78997,2026-01-21 14:25:00,2026-01-21 14:44:52,Email,Tamil,Billing,Network Issue,Low,AG108,86,1106,0,3.6,Neutral,Resolved,1,0.86,1,South
+TKT000318,CUST53452,2026-03-27 08:31:00,2026-03-27 08:57:18,Email,Tamil,Mobile,Password Reset,High,AG124,529,1049,1,3.9,Negative,Pending,0,0.86,0,South
+TKT000319,CUST26622,2026-04-30 11:30:00,2026-04-30 11:42:29,Email,Tamil,Mobile,SIM Activation,High,AG128,32,717,1,3.7,Neutral,Resolved,0,0.86,0,West
+TKT000320,CUST79125,2026-03-09 07:32:00,2026-03-09 07:44:31,Email,English,Mobile,Billing Query,Critical,AG125,272,479,0,2.7,Neutral,In Progress,0,0.87,0,North
+TKT000321,CUST25203,2026-04-16 04:15:00,,WhatsApp,Tamil,Broadband,SIM Activation,Critical,AG124,60,826,1,4.4,Negative,Escalated,1,0.88,1,West
+TKT000322,CUST68827,2026-02-17 19:25:00,2026-02-17 19:41:05,Email,Hindi,Internet,Network Issue,High,AG128,548,417,1,2.5,Neutral,Pending,1,0.74,0,East
+TKT000323,CUST87165,2026-04-30 02:52:00,2026-04-30 03:15:18,Email,Hindi,Mobile,Refund,Low,AG122,477,921,0,3.6,Positive,Resolved,0,0.79,0,West
+TKT000324,CUST13106,2026-03-05 23:47:00,2026-03-06 00:01:24,Voice,Hindi,Mobile,Network Issue,Low,AG103,295,569,1,3.0,Negative,Escalated,1,0.87,0,South
+TKT000325,CUST19924,2026-05-07 15:21:00,2026-05-07 15:33:41,Email,Tamil,DTH,SIM Activation,Medium,AG125,264,497,1,3.7,Positive,Pending,0,0.78,1,South
+TKT000326,CUST36302,2026-02-17 00:15:00,2026-02-17 00:29:09,Chat,Hindi,Broadband,Network Issue,Medium,AG118,187,662,1,2.7,Neutral,Escalated,0,0.96,1,South
+TKT000327,CUST12459,2026-01-07 08:18:00,2026-01-07 08:23:46,Chat,Hindi,Internet,Password Reset,Critical,AG109,77,269,1,4.4,Positive,Pending,1,0.85,1,West
+TKT000328,CUST73185,2026-03-21 09:09:00,2026-03-21 09:26:03,Email,Tamil,DTH,Complaint,Low,AG121,76,947,0,1.0,Negative,Resolved,1,0.83,1,South
+TKT000329,CUST15155,2026-06-03 03:10:00,2026-06-03 03:32:42,Chat,Tamil,Broadband,Network Issue,High,AG116,301,1061,0,1.6,Positive,In Progress,0,0.7,0,South
+TKT000330,CUST80851,2026-05-12 00:35:00,2026-05-12 00:53:33,WhatsApp,Hindi,Broadband,Password Reset,Low,AG111,505,608,1,2.7,Positive,Pending,0,0.79,0,West
+TKT000331,CUST14833,2026-06-21 03:18:00,2026-06-21 03:35:03,WhatsApp,Hindi,Internet,Device Setup,Low,AG108,598,425,0,4.2,Negative,Escalated,0,0.71,0,East
+TKT000332,CUST18383,2026-05-30 09:51:00,2026-05-30 10:04:11,Voice,English,Broadband,Plan Upgrade,Low,AG126,472,319,0,3.9,Positive,In Progress,1,0.93,1,East
+TKT000333,CUST87736,2026-01-22 23:47:00,2026-01-22 23:59:15,Voice,English,DTH,Billing Query,Critical,AG106,334,401,0,3.7,Negative,Pending,0,0.8,0,North
+TKT000334,CUST20580,2026-01-19 04:45:00,,Chat,English,Billing,SIM Activation,Critical,AG123,166,890,0,4.1,Neutral,Escalated,0,0.7,1,West
+TKT000335,CUST75521,2026-03-17 00:11:00,2026-03-17 00:24:12,Voice,Hindi,DTH,Refund,Critical,AG101,183,609,0,3.1,Negative,Escalated,0,0.69,0,East
+TKT000336,CUST96419,2026-06-07 01:19:00,2026-06-07 01:42:08,Voice,English,Internet,Billing Query,Critical,AG116,229,1159,1,4.4,Positive,Escalated,0,0.67,1,East
+TKT000337,CUST69394,2026-02-08 03:42:00,,Voice,Hindi,Mobile,Billing Query,Low,AG116,262,1010,1,4.0,Negative,Resolved,0,0.95,1,East
+TKT000338,CUST52746,2026-03-18 06:55:00,2026-03-18 07:09:25,Chat,Hindi,Broadband,Plan Upgrade,Critical,AG129,338,527,0,3.7,Positive,Resolved,1,0.85,0,West
+TKT000339,CUST27878,2026-01-27 09:15:00,2026-01-27 09:32:12,Chat,Hindi,DTH,SIM Activation,Medium,AG111,470,562,0,2.4,Positive,Resolved,0,0.75,0,West
+TKT000340,CUST48687,2026-03-25 11:33:00,2026-03-25 11:52:16,Chat,Hindi,Billing,Plan Upgrade,Low,AG114,180,976,1,3.0,Negative,In Progress,0,0.85,1,East
+TKT000341,CUST85951,2026-01-03 15:22:00,2026-01-03 15:42:53,Chat,Hindi,Internet,Complaint,Low,AG102,257,996,0,2.1,Neutral,Resolved,1,0.83,1,South
+TKT000342,CUST11628,2026-03-24 08:44:00,2026-03-24 09:07:05,WhatsApp,English,Mobile,Refund,High,AG108,251,1134,0,3.0,Negative,Resolved,0,0.81,1,North
+TKT000343,CUST70786,2026-05-09 00:47:00,2026-05-09 01:14:29,WhatsApp,English,DTH,Device Setup,Low,AG128,589,1060,0,4.4,Negative,Resolved,1,0.95,1,South
+TKT000344,CUST20611,2026-02-23 23:49:00,2026-02-24 00:10:13,Email,Hindi,Internet,Refund,Low,AG104,281,992,0,3.8,Neutral,Pending,1,0.86,1,East
+TKT000345,CUST53899,2026-02-01 21:45:00,2026-02-01 21:58:56,Voice,Hindi,Broadband,Plan Upgrade,Medium,AG111,579,257,0,1.5,Neutral,Pending,1,0.74,0,East
+TKT000346,CUST79717,2026-03-04 20:19:00,2026-03-04 20:44:48,Email,Tamil,Billing,Refund,Low,AG107,502,1046,0,2.6,Neutral,Resolved,0,0.78,0,East
+TKT000347,CUST29392,2026-06-24 10:41:00,2026-06-24 10:47:33,Chat,Hindi,Internet,SIM Activation,Critical,AG122,116,277,0,2.0,Negative,Escalated,1,0.77,1,South
+TKT000348,CUST40451,2026-02-23 01:39:00,2026-02-23 01:48:36,Email,Tamil,Billing,Refund,High,AG116,69,507,0,4.1,Negative,In Progress,1,0.75,0,East
+TKT000349,CUST47767,2026-02-01 06:19:00,2026-02-01 06:33:49,Voice,English,DTH,SIM Activation,Critical,AG106,237,652,1,3.4,Negative,Escalated,1,0.71,0,North
+TKT000350,CUST85304,2026-01-30 08:31:00,2026-01-30 08:43:11,Email,Tamil,Mobile,Plan Upgrade,Low,AG122,124,607,0,4.5,Neutral,Pending,0,0.78,0,East
+TKT000351,CUST70036,2026-01-23 02:47:00,2026-01-23 02:56:50,Chat,English,Billing,Refund,High,AG116,419,171,1,4.4,Neutral,Escalated,1,0.77,0,West
+TKT000352,CUST62642,2026-06-13 20:55:00,2026-06-13 21:00:49,Chat,Tamil,DTH,Network Issue,High,AG102,147,202,0,2.1,Negative,Escalated,0,0.92,1,North
+TKT000353,CUST21452,2026-01-05 02:30:00,2026-01-05 02:44:07,WhatsApp,English,Broadband,Refund,Low,AG130,556,291,1,4.2,Negative,Pending,1,0.7,1,East
+TKT000354,CUST50381,2026-03-12 06:57:00,2026-03-12 07:12:00,Voice,English,Broadband,Complaint,Critical,AG110,17,883,1,3.4,Positive,In Progress,1,0.7,0,North
+TKT000355,CUST87421,2026-02-07 19:49:00,2026-02-07 20:09:32,Voice,English,Broadband,SIM Activation,Critical,AG106,491,741,1,2.7,Negative,In Progress,0,0.72,1,East
+TKT000356,CUST49834,2026-04-11 19:52:00,2026-04-11 20:11:32,WhatsApp,English,Internet,Password Reset,Medium,AG109,48,1124,1,4.6,Neutral,In Progress,0,0.87,1,West
+TKT000357,CUST46335,2026-02-02 15:41:00,2026-02-02 16:04:02,Voice,Hindi,DTH,Device Setup,Critical,AG128,255,1127,0,1.4,Neutral,In Progress,0,0.78,0,East
+TKT000358,CUST27759,2026-01-30 15:29:00,2026-01-30 15:35:33,Voice,Tamil,DTH,Complaint,High,AG102,154,239,1,3.7,Neutral,Pending,0,0.82,0,South
+TKT000359,CUST99780,2026-04-20 00:01:00,2026-04-20 00:18:03,Email,Hindi,DTH,Network Issue,High,AG127,561,462,1,4.7,Positive,Resolved,0,0.83,1,West
+TKT000360,CUST75979,2026-03-17 00:01:00,2026-03-17 00:17:27,Chat,Hindi,Billing,Network Issue,Critical,AG115,171,816,0,1.8,Positive,Resolved,0,0.96,1,East
+TKT000361,CUST88335,2026-02-26 17:17:00,2026-02-26 17:33:49,Email,English,DTH,Password Reset,Low,AG108,147,862,1,4.7,Positive,Escalated,0,0.75,0,North
+TKT000362,CUST73472,2026-06-28 14:31:00,2026-06-28 14:43:00,Voice,English,Internet,Password Reset,Low,AG116,440,280,0,1.3,Positive,Pending,0,0.67,0,South
+TKT000363,CUST56076,2026-05-23 10:13:00,,Chat,Hindi,DTH,Refund,High,AG106,215,373,0,1.6,Negative,Escalated,0,0.68,0,North
+TKT000364,CUST80402,2026-05-11 07:25:00,,Voice,English,Billing,Device Setup,High,AG123,293,512,0,4.2,Negative,Escalated,1,0.88,0,North
+TKT000365,CUST39825,2026-06-01 23:02:00,2026-06-01 23:22:39,Email,English,Broadband,Network Issue,Medium,AG116,393,846,1,3.0,Neutral,Pending,0,0.68,1,South
+TKT000366,CUST68190,2026-03-12 01:08:00,2026-03-12 01:27:32,WhatsApp,Tamil,Broadband,Plan Upgrade,Low,AG129,472,700,1,4.2,Neutral,Pending,0,0.65,1,South
+TKT000367,CUST61748,2026-03-14 03:45:00,2026-03-14 04:10:57,Voice,Hindi,Mobile,Network Issue,High,AG107,540,1017,0,1.4,Neutral,Escalated,1,0.69,1,West
+TKT000368,CUST89058,2026-02-20 16:51:00,2026-02-20 17:09:13,WhatsApp,Hindi,DTH,Billing Query,Critical,AG104,414,679,1,3.7,Positive,Pending,1,0.82,0,South
+TKT000369,CUST33474,2026-01-19 03:10:00,2026-01-19 03:15:02,Email,English,DTH,Network Issue,Low,AG122,74,228,1,4.2,Negative,In Progress,1,0.72,1,West
+TKT000370,CUST80848,2026-04-02 21:28:00,2026-04-02 21:48:15,Voice,Tamil,Internet,Complaint,Critical,AG111,560,655,1,4.5,Neutral,In Progress,1,0.66,0,East
+TKT000371,CUST60997,2026-06-11 01:18:00,2026-06-11 01:34:04,Voice,Hindi,Broadband,Device Setup,Critical,AG118,508,456,1,2.8,Positive,Resolved,1,0.74,1,East
+TKT000372,CUST15913,2026-05-20 12:45:00,2026-05-20 13:02:15,Email,Tamil,Billing,Password Reset,High,AG113,333,702,0,1.1,Positive,In Progress,1,0.99,1,East
+TKT000373,CUST87664,2026-01-11 06:37:00,,Voice,Tamil,Internet,Refund,Medium,AG101,258,620,0,3.3,Negative,Pending,0,0.81,1,West
+TKT000374,CUST59510,2026-02-18 12:52:00,2026-02-18 13:02:46,Email,Hindi,Internet,Device Setup,Low,AG123,485,161,0,4.5,Negative,Escalated,1,0.82,1,North
+TKT000375,CUST93288,2026-04-22 22:13:00,2026-04-22 22:31:30,Voice,Hindi,Mobile,SIM Activation,High,AG102,377,733,1,3.0,Neutral,In Progress,0,0.86,0,South
+TKT000376,CUST79607,2026-04-18 17:53:00,2026-04-18 18:11:13,Chat,Tamil,Internet,SIM Activation,High,AG114,284,809,0,3.0,Negative,Pending,0,0.79,1,West
+TKT000377,CUST37912,2026-05-03 06:05:00,2026-05-03 06:13:33,WhatsApp,Tamil,Billing,Complaint,Low,AG117,24,489,0,3.0,Positive,Pending,1,0.7,0,East
+TKT000378,CUST18444,2026-06-03 16:01:00,2026-06-03 16:24:56,WhatsApp,Tamil,DTH,Billing Query,High,AG122,425,1011,1,4.7,Negative,Escalated,1,0.73,0,North
+TKT000379,CUST67164,2026-01-06 01:02:00,2026-01-06 01:17:44,Voice,English,Mobile,SIM Activation,Medium,AG101,322,622,1,3.7,Neutral,Pending,0,0.87,0,West
+TKT000380,CUST49056,2026-05-23 09:37:00,2026-05-23 09:40:41,WhatsApp,Tamil,Internet,Complaint,Medium,AG108,61,160,0,2.1,Positive,Resolved,1,0.82,0,North
+TKT000381,CUST61111,2026-04-20 04:39:00,2026-04-20 04:50:35,Chat,Tamil,Mobile,Billing Query,Low,AG106,325,370,1,4.6,Positive,Pending,1,0.79,0,West
+TKT000382,CUST72240,2026-04-08 02:45:00,2026-04-08 03:01:47,Email,English,DTH,Device Setup,High,AG127,120,887,1,3.9,Neutral,Resolved,0,0.94,0,North
+TKT000383,CUST99816,2026-02-16 01:17:00,2026-02-16 01:37:28,Chat,Tamil,Broadband,Password Reset,Critical,AG130,321,907,1,4.8,Neutral,Pending,0,0.97,0,East
+TKT000384,CUST94466,2026-02-08 07:11:00,2026-02-08 07:26:02,Voice,Tamil,Internet,Device Setup,Critical,AG124,454,448,1,4.7,Neutral,Pending,1,0.95,0,North
+TKT000385,CUST88920,2026-05-08 03:42:00,2026-05-08 04:01:37,Email,Tamil,Internet,Password Reset,Medium,AG121,523,654,0,2.2,Neutral,Escalated,0,0.79,1,East
+TKT000386,CUST95089,2026-04-15 19:44:00,2026-04-15 19:50:46,WhatsApp,Tamil,Broadband,Device Setup,Medium,AG109,118,288,0,1.9,Positive,Pending,1,0.72,1,East
+TKT000387,CUST13010,2026-02-03 02:41:00,2026-02-03 03:02:56,Chat,English,Broadband,Plan Upgrade,High,AG123,391,925,0,1.1,Positive,Resolved,1,0.86,1,North
+TKT000388,CUST78922,2026-01-17 05:06:00,2026-01-17 05:23:32,WhatsApp,Hindi,Broadband,Network Issue,Medium,AG123,179,873,0,1.0,Positive,Escalated,1,0.75,1,West
+TKT000389,CUST47089,2026-01-24 16:50:00,2026-01-24 17:10:19,Chat,Tamil,Mobile,Complaint,Medium,AG101,216,1003,0,4.5,Neutral,Pending,0,0.86,0,East
+TKT000390,CUST52368,2026-04-17 02:44:00,2026-04-17 03:03:10,WhatsApp,Hindi,Mobile,Complaint,Critical,AG124,92,1058,0,2.6,Negative,Pending,0,0.68,0,South
+TKT000391,CUST97921,2026-03-02 14:17:00,2026-03-02 14:35:07,Voice,English,DTH,Complaint,High,AG113,487,600,1,5.0,Negative,Pending,0,0.98,0,North
+TKT000392,CUST71352,2026-02-17 09:13:00,2026-02-17 09:29:27,Email,Hindi,Billing,Complaint,Medium,AG109,520,467,1,4.8,Positive,Pending,0,0.98,1,East
+TKT000393,CUST44500,2026-05-17 03:17:00,2026-05-17 03:38:43,Email,Hindi,DTH,Complaint,Medium,AG111,445,858,1,4.8,Negative,In Progress,0,0.84,1,South
+TKT000394,CUST71636,2026-02-04 09:24:00,2026-02-04 09:32:04,WhatsApp,Tamil,Internet,Device Setup,Low,AG115,60,424,0,1.6,Neutral,In Progress,1,0.82,0,South
+TKT000395,CUST32058,2026-03-05 15:26:00,2026-03-05 15:34:44,Email,Hindi,Billing,Plan Upgrade,Low,AG117,213,311,1,3.0,Negative,Escalated,1,0.96,0,West
+TKT000396,CUST99212,2026-05-04 05:27:00,2026-05-04 05:37:54,Email,Hindi,Internet,Refund,Medium,AG101,341,313,0,2.0,Positive,In Progress,1,0.8,1,South
+TKT000397,CUST84600,2026-03-01 23:17:00,2026-03-01 23:28:17,Voice,Hindi,DTH,Refund,Low,AG124,468,209,1,4.9,Positive,In Progress,0,0.79,0,North
+TKT000398,CUST31356,2026-06-25 16:21:00,2026-06-25 16:38:12,WhatsApp,Tamil,Mobile,Network Issue,High,AG116,96,936,0,4.0,Neutral,Pending,0,0.77,0,East
+TKT000399,CUST72447,2026-04-04 07:48:00,2026-04-04 08:05:15,WhatsApp,English,Broadband,Refund,Medium,AG114,506,529,1,4.7,Negative,In Progress,0,0.66,1,West
+TKT000400,CUST94833,2026-05-04 03:24:00,2026-05-04 03:36:22,Email,Tamil,Broadband,Network Issue,Critical,AG110,163,579,1,3.8,Positive,Escalated,1,0.94,1,East
+TKT000401,CUST77294,2026-04-14 11:58:00,2026-04-14 12:11:06,WhatsApp,Tamil,Internet,Device Setup,High,AG112,569,217,0,4.2,Neutral,Resolved,0,0.69,1,North
+TKT000402,CUST49013,2026-05-24 02:51:00,2026-05-24 03:06:00,WhatsApp,Hindi,Broadband,SIM Activation,High,AG130,407,493,0,1.3,Positive,Escalated,0,0.68,1,South
+TKT000403,CUST32509,2026-03-20 23:17:00,2026-03-20 23:19:46,WhatsApp,Hindi,Broadband,Device Setup,High,AG120,10,156,1,2.8,Negative,Pending,1,0.92,0,North
+TKT000404,CUST34670,2026-01-25 14:19:00,2026-01-25 14:24:48,Chat,Tamil,Mobile,Plan Upgrade,Critical,AG127,200,148,0,3.9,Negative,Escalated,0,0.75,1,North
+TKT000405,CUST29978,2026-03-28 06:53:00,2026-03-28 07:09:51,WhatsApp,Tamil,Broadband,Password Reset,Critical,AG119,27,984,0,1.6,Positive,Escalated,1,0.84,1,South
+TKT000406,CUST74972,2026-03-02 18:36:00,2026-03-02 18:40:06,Email,English,Broadband,Complaint,Critical,AG117,110,136,1,4.9,Negative,In Progress,0,0.89,0,West
+TKT000407,CUST94974,2026-04-15 22:20:00,2026-04-15 22:42:17,WhatsApp,English,Broadband,Refund,Critical,AG123,571,766,0,1.9,Neutral,Resolved,0,0.75,0,West
+TKT000408,CUST99780,2026-03-04 14:17:00,2026-03-04 14:37:59,WhatsApp,English,DTH,Complaint,Critical,AG127,242,1017,0,3.1,Negative,Pending,1,0.92,0,North
+TKT000409,CUST30488,2026-02-21 10:04:00,2026-02-21 10:17:15,Voice,Tamil,Broadband,SIM Activation,Medium,AG107,499,296,0,1.6,Negative,Resolved,0,0.77,1,East
+TKT000410,CUST54267,2026-05-04 05:32:00,2026-05-04 05:42:27,Chat,English,Billing,Plan Upgrade,Critical,AG109,183,444,0,3.8,Neutral,Pending,0,0.91,1,North
+TKT000411,CUST67386,2026-06-05 08:35:00,2026-06-05 08:56:26,Voice,English,Billing,Network Issue,Low,AG117,111,1175,0,4.2,Positive,Escalated,0,0.95,1,North
+TKT000412,CUST23014,2026-05-13 14:12:00,2026-05-13 14:31:35,Email,Tamil,Mobile,Network Issue,Medium,AG115,457,718,1,4.3,Neutral,Resolved,0,0.93,1,East
+TKT000413,CUST64396,2026-02-22 04:51:00,2026-02-22 05:13:14,Chat,English,Billing,Complaint,Medium,AG105,180,1154,0,1.9,Neutral,In Progress,1,0.96,1,South
+TKT000414,CUST51262,2026-03-22 13:39:00,2026-03-22 13:46:13,Chat,Tamil,Internet,Complaint,Low,AG122,15,418,0,1.3,Negative,Escalated,0,0.98,1,West
+TKT000415,CUST46671,2026-03-15 04:22:00,2026-03-15 04:39:49,Chat,Hindi,Broadband,Device Setup,Medium,AG129,326,743,1,2.5,Negative,In Progress,1,0.95,1,North
+TKT000416,CUST61117,2026-06-10 09:02:00,2026-06-10 09:15:48,Chat,Hindi,Billing,SIM Activation,Medium,AG103,91,737,0,2.9,Negative,Pending,1,0.91,0,South
+TKT000417,CUST76227,2026-01-06 01:51:00,2026-01-06 02:06:01,Voice,Tamil,DTH,Refund,Low,AG102,252,649,1,4.3,Negative,Resolved,1,0.75,0,West
+TKT000418,CUST47294,2026-03-03 17:01:00,2026-03-03 17:21:03,Chat,Hindi,Broadband,Plan Upgrade,Low,AG111,600,603,0,2.2,Negative,Escalated,1,0.8,0,West
+TKT000419,CUST27047,2026-05-31 19:29:00,2026-05-31 19:46:31,WhatsApp,English,DTH,Complaint,Critical,AG128,88,963,0,1.2,Neutral,In Progress,1,0.99,1,West
+TKT000420,CUST69993,2026-05-30 23:17:00,2026-05-30 23:27:05,Voice,Hindi,Mobile,Device Setup,Critical,AG102,152,453,0,2.7,Negative,Escalated,1,0.96,0,West
+TKT000421,CUST30093,2026-01-21 02:03:00,2026-01-21 02:15:30,Email,Tamil,DTH,SIM Activation,Critical,AG101,383,367,1,2.6,Positive,Escalated,1,0.67,1,East
+TKT000422,CUST55698,2026-02-09 05:53:00,,Voice,Tamil,Broadband,SIM Activation,Critical,AG129,505,494,0,1.4,Neutral,In Progress,1,0.93,0,North
+TKT000423,CUST52626,2026-04-02 21:20:00,,WhatsApp,Tamil,Mobile,Complaint,High,AG118,465,1063,1,2.9,Positive,In Progress,1,0.87,0,South
+TKT000424,CUST21161,2026-04-15 03:05:00,2026-04-15 03:27:11,Voice,Hindi,Billing,Plan Upgrade,Critical,AG117,579,752,0,3.3,Positive,Resolved,0,0.98,1,North
+TKT000425,CUST15896,2026-02-14 15:40:00,2026-02-14 15:58:40,Voice,Tamil,Broadband,Billing Query,Critical,AG101,91,1029,1,3.5,Negative,Pending,1,0.74,0,South
+TKT000426,CUST21747,2026-04-09 15:04:00,2026-04-09 15:16:41,WhatsApp,Hindi,Mobile,Password Reset,High,AG106,297,464,0,1.6,Positive,Resolved,1,0.78,1,North
+TKT000427,CUST25855,2026-03-17 03:39:00,,Chat,Hindi,Billing,Plan Upgrade,Critical,AG117,269,783,1,4.9,Negative,In Progress,0,0.74,1,West
+TKT000428,CUST93039,2026-04-11 16:37:00,2026-04-11 16:54:05,Voice,Tamil,Billing,Network Issue,Medium,AG125,72,953,1,2.6,Negative,Escalated,1,0.84,1,South
+TKT000429,CUST32044,2026-06-04 01:26:00,2026-06-04 01:48:37,WhatsApp,Hindi,Broadband,Password Reset,Low,AG127,213,1144,0,2.3,Neutral,Pending,0,0.65,1,East
+TKT000430,CUST37886,2026-04-19 20:07:00,2026-04-19 20:24:07,Email,English,Mobile,Network Issue,High,AG103,394,633,1,4.6,Neutral,Resolved,0,0.9,1,West
+TKT000431,CUST69338,2026-02-08 09:13:00,2026-02-08 09:37:43,Email,Tamil,Mobile,Device Setup,High,AG101,330,1153,1,4.1,Negative,Escalated,0,0.86,0,South
+TKT000432,CUST80533,2026-05-03 11:05:00,,Voice,Hindi,Internet,Device Setup,Low,AG112,428,475,1,4.4,Neutral,Pending,1,0.71,0,South
+TKT000433,CUST12592,2026-03-26 05:32:00,2026-03-26 05:50:00,Email,English,Internet,SIM Activation,Medium,AG108,202,878,1,2.5,Neutral,Pending,0,0.75,0,South
+TKT000434,CUST74751,2026-02-05 16:42:00,2026-02-05 16:59:29,Chat,Hindi,Billing,Billing Query,Low,AG119,118,931,1,3.9,Positive,Resolved,0,0.74,0,East
+TKT000435,CUST69497,2026-02-04 22:12:00,,WhatsApp,Hindi,Internet,Refund,Critical,AG128,550,167,1,4.2,Neutral,Pending,0,0.88,1,West
+TKT000436,CUST65058,2026-03-07 19:17:00,2026-03-07 19:37:28,Email,English,Broadband,Plan Upgrade,High,AG103,49,1179,0,1.2,Negative,Resolved,0,0.98,1,South
+TKT000437,CUST18237,2026-06-16 22:24:00,2026-06-16 22:37:57,Voice,English,Broadband,Complaint,Low,AG119,206,631,0,2.2,Negative,Pending,1,0.73,1,North
+TKT000438,CUST41030,2026-06-24 13:04:00,2026-06-24 13:18:37,WhatsApp,English,Broadband,Network Issue,Low,AG102,60,817,1,3.8,Positive,In Progress,1,0.95,0,North
+TKT000439,CUST66602,2026-01-12 06:53:00,,Voice,Hindi,Internet,SIM Activation,Critical,AG113,61,1025,1,4.0,Positive,In Progress,0,0.94,0,West
+TKT000440,CUST98575,2026-03-11 21:22:00,2026-03-11 21:47:13,WhatsApp,Hindi,DTH,Plan Upgrade,Low,AG104,443,1070,0,2.2,Positive,Resolved,0,0.96,0,East
+TKT000441,CUST28045,2026-03-06 16:43:00,2026-03-06 17:07:39,Voice,English,DTH,Complaint,High,AG110,497,982,1,3.0,Negative,Escalated,0,0.81,1,East
+TKT000442,CUST76467,2026-03-09 03:26:00,2026-03-09 03:37:11,Voice,Tamil,DTH,Plan Upgrade,Medium,AG121,535,136,0,1.2,Positive,Resolved,1,0.71,1,West
+TKT000443,CUST64879,2026-04-20 04:24:00,2026-04-20 04:47:15,Voice,Tamil,Internet,Device Setup,Medium,AG130,597,798,1,4.0,Positive,Escalated,0,0.81,0,North
+TKT000444,CUST10881,2026-03-29 12:24:00,2026-03-29 12:43:47,Voice,Tamil,Internet,Network Issue,Medium,AG110,389,798,0,2.4,Neutral,Escalated,1,0.66,0,North
+TKT000445,CUST32843,2026-02-06 00:18:00,2026-02-06 00:32:44,Chat,English,Mobile,Password Reset,Medium,AG127,183,701,0,4.1,Neutral,Resolved,0,0.93,0,West
+TKT000446,CUST41476,2026-04-30 05:10:00,2026-04-30 05:21:38,Email,Hindi,Mobile,Complaint,Low,AG104,351,347,0,2.1,Positive,Escalated,0,0.72,1,East
+TKT000447,CUST86981,2026-02-27 21:09:00,2026-02-27 21:29:54,Email,English,DTH,Plan Upgrade,Low,AG121,255,999,0,3.7,Neutral,Escalated,1,0.72,0,West
+TKT000448,CUST94550,2026-05-24 23:55:00,2026-05-25 00:02:08,Email,Tamil,Billing,Device Setup,Medium,AG111,176,252,1,4.4,Negative,Pending,1,0.89,1,West
+TKT000449,CUST36607,2026-02-18 20:22:00,2026-02-18 20:38:23,Chat,Tamil,Mobile,SIM Activation,Critical,AG129,42,941,0,1.8,Neutral,Escalated,1,0.74,0,North
+TKT000450,CUST40169,2026-05-17 19:53:00,2026-05-17 20:02:59,WhatsApp,Hindi,Billing,Refund,Critical,AG115,307,292,1,3.8,Neutral,In Progress,1,0.77,1,East
+TKT000451,CUST44815,2026-02-19 16:50:00,2026-02-19 17:05:33,Email,English,DTH,Network Issue,High,AG130,30,903,0,2.5,Positive,Resolved,0,0.67,0,North
+TKT000452,CUST99592,2026-03-02 18:12:00,2026-03-02 18:26:24,Chat,Hindi,Billing,Billing Query,High,AG101,342,522,1,3.3,Neutral,Pending,1,0.92,1,West
+TKT000453,CUST39829,2026-05-30 14:46:00,2026-05-30 14:56:32,Chat,Tamil,Mobile,Device Setup,Critical,AG111,488,144,0,4.0,Positive,Pending,0,0.8,1,North
+TKT000454,CUST85695,2026-03-21 20:37:00,2026-03-21 21:03:57,Email,Hindi,Internet,Device Setup,High,AG111,576,1041,0,2.3,Positive,In Progress,1,0.88,1,East
+TKT000455,CUST30144,2026-03-01 08:39:00,2026-03-01 08:51:33,Email,Hindi,Billing,Complaint,Critical,AG107,586,167,0,4.2,Neutral,Resolved,1,0.71,0,East
+TKT000456,CUST98458,2026-04-14 16:14:00,2026-04-14 16:36:40,Voice,Hindi,Billing,Device Setup,Low,AG106,316,1044,0,1.6,Positive,Resolved,1,0.75,0,East
+TKT000457,CUST77964,2026-05-01 01:42:00,,Email,Tamil,Broadband,Billing Query,Low,AG105,76,1193,1,2.6,Negative,In Progress,1,0.9,1,North
+TKT000458,CUST97135,2026-01-24 15:40:00,2026-01-24 15:54:23,Email,Hindi,Mobile,Device Setup,High,AG107,322,541,1,4.5,Positive,Escalated,1,0.67,1,North
+TKT000459,CUST85514,2026-04-06 17:30:00,,Voice,Tamil,Broadband,Refund,High,AG113,587,793,1,3.7,Negative,Escalated,1,0.73,1,West
+TKT000460,CUST15723,2026-03-12 00:37:00,2026-03-12 00:55:02,Chat,Tamil,Billing,SIM Activation,Low,AG123,587,495,0,2.4,Negative,Escalated,1,0.79,0,East
+TKT000461,CUST31605,2026-01-14 22:22:00,2026-01-14 22:36:16,Voice,Tamil,Internet,Network Issue,Critical,AG113,521,335,1,3.5,Neutral,In Progress,0,0.78,0,East
+TKT000462,CUST18943,2026-01-21 21:03:00,,Chat,Hindi,Broadband,Billing Query,Critical,AG127,339,399,1,3.7,Neutral,Escalated,0,0.94,0,North
+TKT000463,CUST98000,2026-02-23 13:08:00,2026-02-23 13:23:26,Email,English,Broadband,Refund,Medium,AG107,552,374,1,2.9,Negative,Resolved,0,0.8,0,South
+TKT000464,CUST16378,2026-03-13 02:38:00,2026-03-13 02:58:10,Chat,English,DTH,Plan Upgrade,Medium,AG103,459,751,0,3.1,Positive,In Progress,0,0.99,1,North
+TKT000465,CUST97046,2026-05-04 18:47:00,2026-05-04 18:54:59,Chat,English,Broadband,Network Issue,High,AG111,230,249,0,3.8,Negative,Escalated,0,0.97,1,West
+TKT000466,CUST32756,2026-01-22 23:48:00,,Email,English,Broadband,Plan Upgrade,Critical,AG108,223,595,0,2.2,Positive,Pending,1,0.66,0,West
+TKT000467,CUST22418,2026-02-24 21:25:00,2026-02-24 21:45:52,WhatsApp,Hindi,Mobile,Refund,Medium,AG121,109,1143,0,1.9,Negative,Pending,1,0.67,0,West
+TKT000468,CUST90786,2026-03-11 14:36:00,2026-03-11 14:59:29,Voice,Tamil,Mobile,Complaint,Medium,AG120,243,1166,0,1.8,Positive,Resolved,0,0.78,1,North
+TKT000469,CUST88390,2026-01-28 14:39:00,2026-01-28 14:57:23,WhatsApp,Hindi,DTH,Billing Query,High,AG111,214,889,0,1.8,Negative,Resolved,1,0.87,1,South
+TKT000470,CUST17087,2026-02-11 16:33:00,2026-02-11 16:52:13,Chat,Hindi,Mobile,Complaint,High,AG106,355,798,0,1.7,Neutral,Resolved,0,0.95,0,North
+TKT000471,CUST87677,2026-01-10 11:39:00,2026-01-10 11:49:23,Chat,English,Billing,Network Issue,Critical,AG124,214,409,0,1.3,Neutral,Pending,0,0.9,0,West
+TKT000472,CUST93309,2026-02-02 02:51:00,2026-02-02 03:06:44,WhatsApp,English,DTH,Complaint,Critical,AG106,315,629,1,3.9,Neutral,In Progress,1,0.82,1,North
+TKT000473,CUST20909,2026-05-30 04:54:00,2026-05-30 05:12:52,Email,Hindi,Billing,Billing Query,Medium,AG109,25,1107,1,3.6,Neutral,In Progress,1,0.8,1,West
+TKT000474,CUST34854,2026-01-14 02:18:00,,Email,Tamil,Broadband,Complaint,Critical,AG124,144,802,1,3.0,Neutral,In Progress,1,0.75,0,West
+TKT000475,CUST31281,2026-06-11 02:37:00,2026-06-11 02:42:31,WhatsApp,Tamil,DTH,Device Setup,High,AG123,132,199,1,4.8,Positive,In Progress,1,0.9,0,West
+TKT000476,CUST69699,2026-01-07 06:45:00,2026-01-07 06:59:53,Chat,Tamil,Mobile,Billing Query,Low,AG104,33,860,0,1.9,Positive,In Progress,1,0.89,0,North
+TKT000477,CUST49612,2026-06-09 11:19:00,2026-06-09 11:38:20,WhatsApp,Hindi,DTH,Complaint,Low,AG104,174,986,1,3.1,Negative,Pending,0,0.74,0,West
+TKT000478,CUST10206,2026-05-08 06:01:00,,WhatsApp,Hindi,Broadband,SIM Activation,Critical,AG106,11,750,0,3.9,Positive,Pending,0,0.89,0,West
+TKT000479,CUST37862,2026-02-03 03:06:00,2026-02-03 03:27:06,Voice,Hindi,Mobile,Plan Upgrade,High,AG129,117,1149,1,3.9,Neutral,In Progress,0,0.95,0,South
+TKT000480,CUST54846,2026-02-23 08:41:00,,Chat,Tamil,Broadband,Network Issue,Low,AG102,391,295,0,2.0,Neutral,Resolved,0,0.68,0,West
+TKT000481,CUST54175,2026-04-20 18:28:00,2026-04-20 18:52:22,Email,Tamil,DTH,Refund,Medium,AG112,277,1185,1,3.7,Negative,In Progress,1,0.86,1,East
+TKT000482,CUST62665,2026-05-27 18:38:00,2026-05-27 18:43:33,Chat,English,Billing,Network Issue,High,AG123,8,325,1,4.7,Positive,Pending,1,0.86,1,West
+TKT000483,CUST57212,2026-05-01 04:34:00,2026-05-01 04:42:32,Email,Hindi,Broadband,Plan Upgrade,Critical,AG113,8,504,1,2.5,Negative,Resolved,1,0.8,1,South
+TKT000484,CUST78164,2026-05-14 16:06:00,2026-05-14 16:26:13,Voice,English,Broadband,Network Issue,High,AG127,305,908,0,3.5,Negative,In Progress,0,0.95,0,West
+TKT000485,CUST96474,2026-05-01 15:07:00,2026-05-01 15:21:27,Voice,Tamil,Internet,Billing Query,High,AG129,254,613,0,1.6,Neutral,Pending,0,0.89,1,South
+TKT000486,CUST53620,2026-05-02 03:30:00,2026-05-02 03:45:50,Voice,Hindi,DTH,Complaint,Critical,AG121,552,398,1,2.7,Negative,In Progress,0,0.73,0,East
+TKT000487,CUST34662,2026-01-16 23:04:00,2026-01-16 23:11:24,Voice,Hindi,DTH,Billing Query,High,AG113,96,348,1,4.4,Negative,Resolved,1,0.67,0,West
+TKT000488,CUST26555,2026-06-28 09:01:00,2026-06-28 09:22:59,Chat,English,Broadband,Password Reset,Critical,AG111,332,987,1,4.5,Positive,Pending,0,0.82,1,North
+TKT000489,CUST50487,2026-04-20 11:50:00,2026-04-20 12:04:14,Voice,Tamil,Billing,Device Setup,Medium,AG116,154,700,0,3.1,Neutral,In Progress,0,0.98,1,North
+TKT000490,CUST33464,2026-05-31 17:05:00,2026-05-31 17:18:06,WhatsApp,Tamil,Mobile,Password Reset,Critical,AG111,235,551,0,4.2,Neutral,In Progress,1,0.91,1,South
+TKT000491,CUST81828,2026-04-07 02:11:00,2026-04-07 02:27:33,Chat,Tamil,Billing,Password Reset,High,AG115,294,699,0,3.5,Negative,Escalated,0,0.8,1,East
+TKT000492,CUST35644,2026-06-13 08:00:00,2026-06-13 08:10:35,Voice,Tamil,Billing,Network Issue,Medium,AG113,219,416,0,3.8,Neutral,Escalated,0,0.68,1,North
+TKT000493,CUST29473,2026-06-22 01:02:00,2026-06-22 01:07:52,WhatsApp,English,Internet,Network Issue,Medium,AG113,125,227,1,4.0,Neutral,Pending,0,0.87,1,South
+TKT000494,CUST68342,2026-05-22 13:57:00,2026-05-22 14:21:25,Voice,English,Internet,Network Issue,Critical,AG121,396,1069,1,4.1,Negative,Escalated,0,0.85,1,East
+TKT000495,CUST94488,2026-05-07 06:56:00,2026-05-07 07:04:23,Email,Hindi,Mobile,Network Issue,High,AG103,190,313,1,3.7,Negative,Escalated,1,0.93,0,West
+TKT000496,CUST37192,2026-04-12 05:27:00,2026-04-12 05:46:50,Voice,English,Billing,Billing Query,Low,AG118,70,1120,0,3.6,Neutral,Pending,0,0.66,0,North
+TKT000497,CUST76341,2026-01-16 23:41:00,2026-01-16 23:52:25,Chat,Tamil,Internet,Plan Upgrade,High,AG102,40,645,0,4.4,Negative,Pending,1,0.7,1,East
+TKT000498,CUST96850,2026-04-06 03:33:00,2026-04-06 03:56:17,Chat,English,Mobile,Billing Query,High,AG128,556,841,0,3.4,Positive,Escalated,0,0.85,1,North
+TKT000499,CUST95166,2026-05-13 17:30:00,2026-05-13 17:47:45,WhatsApp,Tamil,Internet,SIM Activation,Critical,AG123,81,984,1,3.2,Positive,Escalated,0,0.86,1,North
+TKT000500,CUST30118,2026-05-11 01:27:00,2026-05-11 01:51:24,WhatsApp,Tamil,Internet,Plan Upgrade,Low,AG109,582,882,0,2.5,Positive,Resolved,1,0.67,0,East
