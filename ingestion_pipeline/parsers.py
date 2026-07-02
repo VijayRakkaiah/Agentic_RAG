@@ -4,6 +4,7 @@ import pandas as pd
 from pptx import Presentation
 from PIL import Image
 import pytesseract
+from unstructured.partition.auto import partition
 
 # ---------- PDF Parser ----------
 def pdf_parser(file):
@@ -61,15 +62,13 @@ def json_parser(filepath):
 
 # ---------- PPT Parser ----------
 def ppt_parser(filepath):
+    elements = partition(filename=str(filepath))
 
-    prs = Presentation(filepath)
-
-    text = ""
-
-    for slide in prs.slides:
-        for shape in slide.shapes:
-            if hasattr(shape, "text"):
-                text += shape.text + "\n"
+    text = "\n".join(
+        element.text.strip()
+        for element in elements
+        if hasattr(element, "text") and element.text
+    )
 
     return {
         "text": text,
