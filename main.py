@@ -1,6 +1,5 @@
-def main():
-    print("Hello from agentic-rag!")
+from ingestion.ingest import run_ingestion
 
 
 if __name__ == "__main__":
-    main()
+    run_ingestion()
